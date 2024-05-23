@@ -1,0 +1,93 @@
+Month,Date,OrderID,SalesHead,Salesperson,ProductName,ShipMode,Segment,State,City,Region,Category,SubCategory,Sales,Profit
+January,1/22/2021,IN-152157,Vikram Kumar,Pranav Sharma,iPhone 13,Air,Consumer,Maharashtra,Mumbai,West,Electronics,Mobile Phones,15000,3000
+February,2/2/2021,IN-152158,Satyam Jha,Diya Sharma,Plain T-shirt,Road,Corporate,Delhi,New Delhi,North,Clothing,T-shirts,5000,2000
+March,3/4/2021,IN-138691,Ramesh Rahul,Ananya Kapoor,Office Chair,Rail,Home Office,Karnataka,Bengaluru,South,Furniture,Chairs,8000,2400
+April,4/8/2021,IN-108970,Sonu Dev,Yash Rajput,A4 Paper,Air,Small Business,Tamil Nadu,Chennai,South,Office Supplies,Paper,2000,200
+May,5/14/2021,IN-108971,Satyam Jha,Arjun Singhania,Headphones,Road,Consumer,Uttar Pradesh,Lucknow,North,Electronics,Headphones,3000,600
+June,6/19/2021,IN-115818,Satyam Jha,Diya Sharma,Ballpoint Pens,Rail,Corporate,Telangana,Hyderabad,South,Office Supplies,Pens,6000,600
+July,7/22/2021,IN-115819,Ramesh Rahul,Vikram Malhotra,Coffee Table,Air,Home Office,Kerala,Kochi,South,Furniture,Tables,10000,3000
+August,8/26/2021,IN-115820,Vikram Kumar,Pranav Sharma,Party Dress,Road,Small Business,Punjab,Chandigarh,North,Clothing,Dresses,7500,3000
+September,9/25/2021,IN-115821,Satyam Jha,Aarav Deshmukh,Laptop,Rail,Consumer,West Bengal,Kolkata,East,Electronics,Laptops,12000,2400
+October,10/30/2021,IN-115822,Sonu Dev,Yash Rajput,Stapler,Air,Corporate,Gujarat,Ahmedabad,West,Office Supplies,Staplers,4000,400
+November,11/30/2021,IN-115823,Sonu Dev,Arnav Khanna,Bookcase,Road,Home Office,Madhya Pradesh,Indore,Central,Furniture,Bookcases,9000,2700
+December,12/30/2021,IN-115824,Ramesh Rahul,Ananya Kapoor,Denim Jeans,Rail,Small Business,Haryana,Gurgaon,North,Clothing,Jeans,5500,2200
+January,1/22/2021,IN-114425,Ramesh Rahul,Vikram Malhotra,DSLR Camera,Air,Consumer,Rajasthan,Jaipur,North,Electronics,Cameras,16000,3200
+February,2/2/2021,IN-161403,Satyam Jha,Arjun Singhania,Notebooks,Road,Corporate,Odisha,Bhubaneswar,East,Office Supplies,Notebooks,3000,300
+March,3/4/2021,IN-118998,Ramesh Rahul,Rohan Reddy,Sofa,Rail,Home Office,Uttar Pradesh,Agra,North,Furniture,Sofas,8500,2550
+April,4/8/2021,IN-118999,Vikram Kumar,Pranav Sharma,Speakers,Air,Small Business,Maharashtra,Pune,West,Electronics,Speakers,5000,1000
+May,5/14/2021,IN-105910,Ramesh Rahul,Ishita Chatterjee,Winter Jacket,Road,Consumer,Tamil Nadu,Coimbatore,South,Clothing,Jackets,7000,2800
+June,6/19/2021,IN-167182,Sonu Dev,Yash Rajput,Scissors,Rail,Corporate,Karnataka,Mysore,South,Office Supplies,Scissors,2500,250
+July,7/22/2021,IN-143355,Sonu Dev,Niharika Iyer,Office Desk,Air,Home Office,Delhi,Noida,North,Furniture,Desks,11000,3300
+August,8/26/2021,IN-143356,Sonu Dev,Niharika Iyer,Casual Shirt,Road,Small Business,Telangana,Warangal,South,Clothing,Shirts,4800,1920
+September,9/25/2021,IN-143357,Ramesh Rahul,Rohan Reddy,Printer,Rail,Consumer,Kerala,Thiruvananthapuram,South,Electronics,Printers,9000,1800
+October,10/30/2021,IN-137352,Ramesh Rahul,Ishita Chatterjee,Binder,Air,Corporate,Punjab,Ludhiana,North,Office Supplies,Binders,6000,600
+November,11/30/2021,IN-137353,Ramesh Rahul,Vikram Malhotra,Office Chair,Road,Home Office,West Bengal,Siliguri,East,Furniture,Chairs,7500,2250
+December,12/30/2021,IN-156933,Ramesh Rahul,Vikram Malhotra,Smart TV,Air,Consumer,Telangana,Hyderabad,South,Electronics,Televisions,20000,4000
+November,11/30/2021,IN-106345,Satyam Jha,Riya Menon,File Folders,Road,Corporate,Tamil Nadu,Chennai,South,Office Supplies,Folders,3000,300
+October,10/30/2021,IN-121781,Satyam Jha,Riya Menon,Office Chair,Rail,Home Office,Maharashtra,Pune,West,Furniture,Office Chairs,7000,2100
+September,9/25/2021,IN-121782,Satyam Jha,Riya Menon,Skirts,Air,Small Business,Uttar Pradesh,Noida,North,Clothing,Skirts,4500,1800
+August,8/26/2021,IN-150658,Sonu Dev,Priya Mehta,Printer,Road,Consumer,Karnataka,Bengaluru,South,Electronics,Printers,15000,3000
+July,7/22/2021,IN-150659,Satyam Jha,Aarav Deshmukh,Envelopes,Rail,Corporate,Delhi,New Delhi,North,Office Supplies,Envelopes,4000,400
+June,6/19/2021,IN-150660,Ramesh Rahul,Aditya Patel,Double Bed,Air,Home Office,West Bengal,Kolkata,East,Furniture,Beds,12000,3600
+May,5/14/2021,IN-150661,Sonu Dev,Priya Mehta,Trousers,Road,Small Business,Punjab,Chandigarh,North,Clothing,Trousers,6500,2600
+April,4/8/2021,IN-150662,Ramesh Rahul,Vikram Malhotra,Tablet,Rail,Consumer,Gujarat,Ahmedabad,West,Electronics,Tablets,18000,3600
+March,3/4/2021,IN-150663,Ramesh Rahul,Ananya Kapoor,Sticky Notes,Air,Corporate,Kerala,Kochi,South,Office Supplies,Sticky Notes,2500,250
+February,2/2/2021,IN-150664,Vikram Kumar,Tanvi Gupta,Wardrobe,Road,Home Office,Rajasthan,Jaipur,North,Furniture,Wardrobes,9500,2850
+January,1/22/2021,IN-107762,Satyam Jha,Saanvi Joshi,Socks,Rail,Small Business,Odisha,Bhubaneswar,East,Clothing,Socks,3500,1400
+December,12/30/2021,IN-117626,Sonu Dev,Arnav Khanna,Smartwatch,Air,Consumer,Madhya Pradesh,Indore,Central,Electronics,Smartw,7500,1500
+November,11/30/2021,IN-117627,Sonu Dev,Priya Mehta,Dining Table,Road,Corporate,Telangana,Warangal,South,Furniture,Wardrobes,5000,500
+October,10/30/2021,IN-117453,Vikram Kumar,Vikas Joshi,Scarves,Rail,Home Office,Uttar Pradesh,Agra,North,Clothing,Mini Skirts,8800,2640
+September,9/25/2021,IN-117454,Vikram Kumar,Vikas Joshi,Calculator,Air,Small Business,Haryana,Gurgaon,North,Office Supplies,Calculator,5000,1680
+August,8/26/2021,IN-117455,Vikram Kumar,Pranav Sharma,Dining Table,Road,Consumer,Telangana,Warangal,South,Furniture,Dining Tables,8800,2200
+July,7/22/2021,IN-117456,Satyam Jha,Diya Sharma,Scarves,Rail,Corporate,Uttar Pradesh,Agra,North,Clothing,Scarves,4200,320
+June,6/19/2021,IN-121041,Satyam Jha,Saanvi Joshi,Gaming Console,Air,Home Office,Karnataka,Mysore,South,Electronics,Gaming Consoles,11000,1800
+May,5/14/2021,IN-101386,Satyam Jha,Diya Sharma,Tape Dispenser,Road,Small Business,Maharashtra,Mumbai,West,Office Supplies,Tape Dispensers,3200,3120
+April,4/8/2021,IN-139663,Satyam Jha,Saanvi Joshi,Bean Bag,Rail,Consumer,Tamil Nadu,Coimbatore,South,Furniture,Bean Bags,6000,1700
+March,3/4/2021,IN-118300,Ramesh Rahul,Ishita Chatterjee,Overcoat,Air,Corporate,Delhi,Noida,North,Clothing,Coats,7800,700
+February,2/2/2021,IN-118301,Satyam Jha,Riya Menon,Hard Drive,Road,Home Office,West Bengal,Siliguri,East,Electronics,External Hard Drives,8500,3450
+January,1/22/2021,IN-146750,Sonu Dev,Niharika Iyer,Whiteboard,Rail,Small Business,Punjab,Ludhiana,North,Office Supplies,Whiteboards,7000,1320
+December,12/30/2021,IN-169242,Vikram Kumar,Kritika Singh,Mattress,Air,Consumer,Kerala,Thiruvananthapuram,South,Furniture,Mattresses,11500,2700
+November,11/30/2021,IN-169243,Sonu Dev,Akash Verma,Leather Belt,Road,Corporate,Gujarat,Surat,West,Clothing,Belts,3300,280
+October,10/30/2021,IN-115792,Sonu Dev,Arnav Khanna,Home Theater,Rail,Home Office,Madhya Pradesh,Bhopal,Central,Electronics,Home Theater,13500,2010
+September,9/25/2021,IN-115793,Ramesh Rahul,Vikram Malhotra,Mousepad,Air,Small Business,Rajasthan,Udaipur,North,Office Supplies,Mousepads,2800,1960
+August,8/26/2021,IN-115794,Sonu Dev,Akash Verma,Ottoman,Road,Consumer,Maharashtra,Nagpur,West,Furniture,Ottomans,6700,1040
+July,7/22/2021,IN-115795,Satyam Jha,Diya Sharma,Hat,Rail,Corporate,Telangana,Karimnagar,South,Clothing,Hats,4900,380
+June,6/19/2021,IN-105870,Sonu Dev,Niharika Iyer,Earphones,Air,Home Office,Karnataka,Hubballi-Dharwad,South,Electronics,Earphones,5200,2490
+May,5/14/2021,IN-105871,Vikram Kumar,Kritika Singh,Binder,Road,Small Business,Tamil Nadu,Salem,South,Office Supplies,Binders,3800,2240
+April,4/8/2021,IN-111738,Satyam Jha,Riya Menon,Bench,Rail,Consumer,Uttar Pradesh,Varanasi,North,Furniture,Benches,8300,2500
+March,3/4/2021,IN-111739,Ramesh Rahul,Ananya Kapoor,Gloves,Air,Corporate,Bihar,Patna,East,Clothing,Gloves,5600,420
+February,2/2/2021,IN-111740,Ramesh Rahul,Ananya Kapoor,Monitor,Road,Home Office,Jharkhand,Ranchi,East,Electronics,Monitors,12500,2160
+August,8/26/2021,IN-111741,Sonu Dev,Niharika Iyer,Highlighters,Rail,Small Business,West Bengal,Asansol,East,Office Supplies,Highlighters,4200,2360
+July,7/22/2021,IN-111742,Sonu Dev,Akash Verma,Shoe Rack,Air,Consumer,Punjab,Amritsar,North,Furniture,Shoe Racks,7200,3100
+June,6/19/2021,IN-111743,Ramesh Rahul,Vikram Malhotra,Blouse,Road,Corporate,Kerala,Kollam,South,Clothing,Blouses,5900,270
+May,5/14/2021,IN-111744,Vikram Kumar,Ayesha Dutta,Drone,Rail,Home Office,Odisha,Cuttack,East,Electronics,Drones,15500,2070
+April,4/8/2021,IN-135608,Ramesh Rahul,Aditya Patel,Paper Clips,Air,Small Business,Telangana,Ramagundam,South,Office Supplies,Paper Clips,2700,1520
+March,3/4/2021,IN-135609,Sonu Dev,Arnav Khanna,Coat Rack,Road,Consumer,Karnataka,Belagavi,South,Furniture,Coat Racks,6900,1840
+February,2/2/2021,IN-135610,Vikram Kumar,Ayesha Dutta,Swimwear,Rail,Corporate,Tamil Nadu,Tirunelveli,South,Clothing,Swimwear,3800,310
+January,1/22/2021,IN-135611,Satyam Jha,Arjun Singhania,Digital Camera,Air,Home Office,Maharashtra,Nagpur,West,Electronics,Digital Cameras,9200,2970
+August,8/26/2021,IN-164242,Sonu Dev,Arnav Khanna,Ruler,Road,Small Business,Uttar Pradesh,Ghaziabad,North,Office Supplies,Rulers,3100,2680
+July,7/22/2021,IN-106444,Satyam Jha,Riya Menon,Bar Stool,Rail,Consumer,Gujarat,Vadodara,West,Furniture,Bar Stools,9900,1560
+June,6/19/2021,IN-106445,Ramesh Rahul,Ananya Kapoor,Jumpsuit,Air,Corporate,Delhi,Gurgaon,North,Clothing,Jumpsuits,6700,540
+May,5/14/2021,IN-119893,Ramesh Rahul,Vikram Malhotra,GPS Device,Rail,Home Office,West Bengal,Howrah,East,Electronics,GPS Devices,7800,2640
+April,4/8/2021,IN-106146,Ramesh Rahul,Ananya Kapoor,Scanner,Air,Small Business,Punjab,Jalandhar,North,Office Supplies,Scanners,5400,1960
+March,3/4/2021,IN-1061442,Vikram Kumar,Pranav Sharma,TV Stand,Road,Corporate,Kerala,Kozhikode,South,Furniture,TV Stands,8800,1760
+February,2/2/2021,IN-1061464,Satyam Jha,Riya Menon,Saree,Rail,Home Office,Uttar Pradesh,Allahabad,North,Clothing,Sarees,4900,980
+January,1/22/2021,IN-1061451,Vikram Kumar,Kritika Singh,Smart Speaker,Air,Small Business,Madhya Pradesh,Gwalior,Central,Electronics,Smart Speakers,7800,1560
+December,12/30/2021,IN-1061431,Vikram Kumar,Pranav Sharma,Paper,Road,Consumer,Karnataka,Bengaluru,South,Office Supplies,Paper,2300,460
+November,11/30/2021,IN-1061471,Sonu Dev,Yash Rajput,Chair,Rail,Corporate,Maharashtra,Mumbai,West,Furniture,Chairs,6500,1300
+October,10/30/2021,IN-1081431,Sonu Dev,Niharika Iyer,Mixer Grinder,Air,Home Office,Tamil Nadu,Chennai,South,Electronics,Kitchen Appliances,5400,1080
+September,9/25/2021,IN-1061833,Sonu Dev,Priya Mehta,Shirt,Road,Small Business,Uttar Pradesh,Noida,North,Clothing,Shirts,4800,960
+August,8/26/2021,IN-1061812,Sonu Dev,Priya Mehta,Projector,Rail,Consumer,Gujarat,Ahmedabad,West,Electronics,Projectors,11200,2240
+August,8/26/2021,IN-1062133,Ramesh Rahul,Aditya Patel,Umbrella,Air,Corporate,Madhya Pradesh,Jabalpur,Central,Accessories,Umbrellas,3600,720
+July,7/22/2021,IN-1067833,Sonu Dev,Yash Rajput,Laptop Stand,Road,Home Office,Kerala,Kochi,South,Electronics,Laptop Accessories,4200,840
+June,6/19/2021,IN-1067736,Vikram Kumar,Ayesha Dutta,Pillow,Rail,Small Business,Rajasthan,Udaipur,North,Home,Pillows,2600,520
+May,5/14/2021,IN-106784673,Satyam Jha,Diya Sharma,Backpack,Air,Consumer,Bihar,Patna,East,Accessories,Backpacks,3800,760
+April,4/8/2021,IN-1067883,Sonu Dev,Niharika Iyer,Desk Lamp,Road,Corporate,Jharkhand,Ranchi,East,Home,Lamps,2100,420
+March,3/4/2021,IN-1067443,Satyam Jha,Riya Menon,Wallet,Rail,Home Office,Uttar Pradesh,Lucknow,North,Accessories,Wallets,2900,580
+February,2/2/2021,IN-10679803,Vikram Kumar,Tanvi Gupta,Armchair,Air,Small Business,Odisha,Bhubaneswar,East,Furniture,Armchairs,7200,1440
+January,1/22/2021,IN-10670983,Ramesh Rahul,Ananya Kapoor,Printer Ink,Road,Consumer,Telangana,Hyderabad,South,Electronics,Printer Supplies,1500,300
+December,12/30/2021,IN-10678332,Satyam Jha,Arjun Singhania,Wall Clock,Rail,Consumer,Maharashtra,Pune,West,Home,Clocks,3500,700
+November,11/30/2021,IN-10673872,Satyam Jha,Diya Sharma,Backpack,Road,Corporate,Tamil Nadu,Coimbatore,South,Accessories,Backpacks,4300,860
+October,10/30/2021,IN-1067892,Satyam Jha,Saanvi Joshi,Dining Chair,Road,Home Office,Karnataka,Bengaluru,South,Furniture,Chairs,5500,1100
+September,9/25/2021,IN-10673822,Satyam Jha,Saanvi Joshi,Notebook Stand,Rail,Small Business,Gujarat,Ahmedabad,West,Electronics,Laptop Accessories,3700,740
+August,8/26/2021,IN-10678383,Sonu Dev,Akash Verma,Plant Pot,Air,Consumer,Uttar Pradesh,Agra,North,Home,Pots & Planters,2800,560
