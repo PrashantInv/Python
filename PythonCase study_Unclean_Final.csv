@@ -1,4 +1,4 @@
-Month,Date,OrderID,SalesHead,SalesPerson first name,SalesPErson Surname,ProductName,ShipMode,Segment,State,City,Region,Category,SubCategory,Sales,Profit
+Month,Date,OrderID,SalesHead,SalesPersonfirstname,SalesPersonSurname,ProductName,ShipMode,Segment,State,City,Region,Category,SubCategory,Sales,Profit
 January,1/22/2021,IN-152157,Vikram Kumar,PRaNaV ,SHARMA,iPhone 13,Air,Consumer,Maharashtra,Mumbai,West,Electronics,Mobile Phones,15000,3000
 February,02/02/21,IN-152158,Satyam Jha,DIyA  ,SHARMA,Plain T-shirt,Road,Corporate,Delhi,New Delhi,North,Clothing,T-shirts,5000,2000
 March,03/04/21,IN-138691,Ramesh Rahul,ANaYnA  ,KAPOOR,Office Chair,Rail,Home Office,Karnataka,Bengaluru,South,Furniture,Chairs,8000,2400
