@@ -1,0 +1,1437 @@
+OrderID,ProductName,ProductCategory,CustomerName,CustomerCategory,Month,Zone,Units Sold,Per Unit Price,Sales Commission Paid
+1,Car Tyres Rapid,Car,alpha motors pvt ltd ,Big,January,East,77,131.22,532.59
+2,Car Tyres Rapid,Car, alpha motors pvt ltd,Big,January,South,16,131.37,121.74
+3,Car Tyres Rapid,Car, alpha motors pvt ltd,Big,January,West,35,197.6,384.94
+4,Car Tyres Rapid,Car,BRAVO AUTO CORP,Medium,January,East,74,111.72,437.32
+5,Car Tyres Rapid,Car, BRAVO AUTO CORP,Medium,January,Central,30,191.15,307.06
+6,Car Tyres Rapid,Car,BRAVO AUTO CORP,Medium,January,East,65,173.27,673.35
+7,Car Tyres Rapid,Car,bravo auto corp,Medium,January,East,83,197.18,879.83
+8,Car Tyres Rapid,Car, CHARLIE TRANSPORT LTD ,Big,January,South,64,127.96,427.9
+9,Car Tyres Rapid,Car,CHARLIE TRANSPORT LTD,Big,January,North,17,145.56,124.96
+10,Car Tyres Rapid,Car,CHARLIE TRANSPORT LTD,Big,January,West,86,112.27,528.92
+11,Car Tyres Rapid,Car, CHARLIE TRANSPORT LTD,Big,January,East,17,143.14,125.09
+12,Car Tyres Rapid,Car, charlie transport ltd ,Big,January,North,60,139.93,470.32
+13,Car Tyres Rapid,Car,delta vehicles pvt ltd ,Big,January,East,57,179.94,602.58
+14,Car Tyres Rapid,Car, Delta Vehicles Pvt Ltd ,Big,January,West,56,103.59,310.64
+15,Car Tyres Rapid,Car,Delta Vehicles Pvt Ltd,Big,January,South,29,114.84,174.15
+16,Car Tyres Rapid,Car, Delta Vehicles Pvt Ltd,Big,January,South,74,187.47,717.0
+17,Car Tyres Rapid,Car, ECHO MOTORS LTD,Medium,January,East,15,136.3,118.36
+18,Car Tyres Rapid,Car, Echo Motors Ltd ,Medium,January,South,23,118.25,136.98
+19,Car Tyres Rapid,Car,Echo Motors Ltd,Medium,January,West,92,178.49,981.68
+20,Car Tyres Rapid,Car,Foxtrot Auto Ltd,Small,January,East,68,160.99,635.29
+21,Car Tyres Rapid,Car,FOXTROT AUTO LTD,Small,January,West,25,155.87,203.35
+22,Car Tyres Rapid,Car,FOXTROT AUTO LTD,Small,January,South,48,150.87,394.38
+23,Car Tyres Rapid,Car,foxtrot auto ltd ,Small,January,Central,80,117.47,500.41
+24,Car Tyres Rapid,Car, GOLF MOTOR COMPANY,Small,January,East,53,114.85,313.97
+25,Car Tyres Rapid,Car, GOLF MOTOR COMPANY,Small,January,Central,57,178.51,608.12
+26,Car Tyres Rapid,Car,golf motor company,Small,January,Central,29,127.47,198.81
+27,Car Tyres Rapid,Car,golf motor company,Small,January,South,28,116.8,183.83
+28,Car Tyres Rapid,Car, HOTEL WHEELS INC,Medium,January,South,92,120.21,570.74
+29,Car Tyres Rapid,Car, HOTEL WHEELS INC ,Medium,January,East,74,111.58,468.53
+30,Car Tyres Rapid,Car, india tyres co,Medium,January,West,54,187.49,526.5
+31,Car Tyres Rapid,Car, INDIA TYRES CO,Medium,January,East,90,196.56,930.94
+32,Car Tyres Rapid,Car,JULIET AUTOMOTIVE PVT LTD ,Small,January,South,68,113.22,454.57
+33,Car Tyres Rapid,Car,JULIET AUTOMOTIVE PVT LTD ,Small,January,Central,43,115.56,254.2
+34,Car Tyres Rapid,Car,Juliet Automotive Pvt Ltd ,Small,January,East,98,149.57,823.68
+35,Car Tyres Rapid,Car, JULIET AUTOMOTIVE PVT LTD ,Small,January,East,22,163.12,212.09
+36,Car Tyres Gripper,Car, alpha motors pvt ltd,Big,January,East,20,149.0,161.06
+37,Car Tyres Gripper,Car,ALPHA MOTORS PVT LTD ,Big,January,North,73,189.78,819.87
+38,Car Tyres Gripper,Car, ALPHA MOTORS PVT LTD ,Big,January,West,14,173.8,134.72
+39,Car Tyres Gripper,Car,ALPHA MOTORS PVT LTD,Big,January,Central,59,199.95,621.74
+40,Car Tyres Gripper,Car,bravo auto corp ,Medium,January,South,13,150.27,106.72
+41,Car Tyres Gripper,Car, Charlie Transport Ltd,Big,January,North,28,125.31,196.49
+42,Car Tyres Gripper,Car,charlie transport ltd ,Big,January,Central,33,180.28,308.15
+43,Car Tyres Gripper,Car, Charlie Transport Ltd,Big,January,North,83,157.38,742.59
+44,Car Tyres Gripper,Car, charlie transport ltd ,Big,January,West,12,114.58,80.73
+45,Car Tyres Gripper,Car, Delta Vehicles Pvt Ltd ,Big,January,West,54,195.37,545.48
+46,Car Tyres Gripper,Car, DELTA VEHICLES PVT LTD,Big,January,South,42,192.63,410.27
+47,Car Tyres Gripper,Car, Echo Motors Ltd,Medium,January,West,66,120.97,402.73
+48,Car Tyres Gripper,Car, Echo Motors Ltd,Medium,January,East,66,195.5,762.03
+49,Car Tyres Gripper,Car, echo motors ltd,Medium,January,South,95,146.86,767.21
+50,Car Tyres Gripper,Car, FOXTROT AUTO LTD,Small,January,South,40,129.66,309.36
+51,Car Tyres Gripper,Car, FOXTROT AUTO LTD,Small,January,West,83,166.26,756.06
+52,Car Tyres Gripper,Car, foxtrot auto ltd ,Small,January,North,11,157.72,102.33
+53,Car Tyres Gripper,Car,foxtrot auto ltd,Small,January,South,59,165.64,578.39
+54,Car Tyres Gripper,Car, Golf Motor Company ,Small,January,North,16,118.91,112.26
+55,Car Tyres Gripper,Car,GOLF MOTOR COMPANY,Small,January,South,49,167.76,490.91
+56,Car Tyres Gripper,Car,HOTEL WHEELS INC ,Medium,January,East,57,108.0,347.85
+57,Car Tyres Gripper,Car,hotel wheels inc ,Medium,January,East,75,172.64,707.75
+58,Car Tyres Gripper,Car,Hotel Wheels Inc ,Medium,January,Central,17,141.5,124.81
+59,Car Tyres Gripper,Car,INDIA TYRES CO,Medium,January,East,67,112.95,451.81
+60,Car Tyres Gripper,Car,Juliet Automotive Pvt Ltd,Small,January,East,80,132.47,556.63
+61,Truck Tyres HeavyDuty,Truck, ALPHA MOTORS PVT LTD,Big,January,East,100,237.51,1658.89
+62,Truck Tyres HeavyDuty,Truck, Alpha Motors Pvt Ltd ,Big,January,North,94,269.3,1717.06
+63,Truck Tyres HeavyDuty,Truck,ALPHA MOTORS PVT LTD ,Big,January,West,55,213.07,710.56
+64,Truck Tyres HeavyDuty,Truck, bravo auto corp,Medium,January,East,96,347.71,2115.83
+65,Truck Tyres HeavyDuty,Truck, Bravo Auto Corp ,Medium,January,Central,48,366.55,1140.02
+66,Truck Tyres HeavyDuty,Truck, Charlie Transport Ltd,Big,January,South,23,242.28,366.78
+67,Truck Tyres HeavyDuty,Truck,charlie transport ltd,Big,January,West,17,326.58,375.17
+68,Truck Tyres HeavyDuty,Truck, Charlie Transport Ltd ,Big,January,Central,39,329.86,781.4
+69,Truck Tyres HeavyDuty,Truck, charlie transport ltd ,Big,January,South,78,372.68,1917.85
+70,Truck Tyres HeavyDuty,Truck, charlie transport ltd ,Big,January,South,98,351.68,2287.53
+71,Truck Tyres HeavyDuty,Truck,delta vehicles pvt ltd,Big,January,North,81,372.61,1983.76
+72,Truck Tyres HeavyDuty,Truck,Echo Motors Ltd,Medium,January,North,93,207.34,1219.69
+73,Truck Tyres HeavyDuty,Truck, Echo Motors Ltd,Medium,January,South,99,363.28,2160.29
+74,Truck Tyres HeavyDuty,Truck,echo motors ltd,Medium,January,Central,99,376.72,2291.93
+75,Truck Tyres HeavyDuty,Truck, Echo Motors Ltd ,Medium,January,West,50,292.21,1007.27
+76,Truck Tyres HeavyDuty,Truck, ECHO MOTORS LTD,Medium,January,South,80,352.45,1703.59
+77,Truck Tyres HeavyDuty,Truck, foxtrot auto ltd,Small,January,South,89,289.9,1590.96
+78,Truck Tyres HeavyDuty,Truck, foxtrot auto ltd,Small,January,East,95,318.04,1839.1
+79,Truck Tyres HeavyDuty,Truck,GOLF MOTOR COMPANY ,Small,January,North,99,239.6,1571.08
+80,Truck Tyres HeavyDuty,Truck,Hotel Wheels Inc,Medium,January,North,26,379.09,673.88
+81,Truck Tyres HeavyDuty,Truck,hotel wheels inc ,Medium,January,West,95,394.51,2506.8
+82,Truck Tyres HeavyDuty,Truck,Hotel Wheels Inc,Medium,January,East,13,283.67,234.11
+83,Truck Tyres HeavyDuty,Truck, Hotel Wheels Inc ,Medium,January,Central,54,249.11,926.99
+84,Truck Tyres HeavyDuty,Truck, INDIA TYRES CO ,Medium,January,South,63,304.57,1266.03
+85,Truck Tyres HeavyDuty,Truck,india tyres co ,Medium,January,Central,49,390.15,1208.92
+86,Truck Tyres HeavyDuty,Truck,india tyres co ,Medium,January,Central,48,325.53,1010.44
+87,Truck Tyres HeavyDuty,Truck,INDIA TYRES CO ,Medium,January,North,28,379.76,713.11
+88,Truck Tyres HeavyDuty,Truck,India Tyres Co ,Medium,January,West,32,291.56,649.37
+89,Truck Tyres HeavyDuty,Truck,Juliet Automotive Pvt Ltd ,Small,January,West,97,211.24,1230.22
+90,Truck Tyres HeavyDuty,Truck, juliet automotive pvt ltd,Small,January,East,89,218.42,1274.48
+91,Truck Tyres HeavyDuty,Truck, juliet automotive pvt ltd,Small,January,Central,59,377.12,1368.6
+92,Truck Tyres HeavyDuty,Truck,juliet automotive pvt ltd ,Small,January,West,55,308.03,1063.7
+93,Truck Tyres HeavyDuty,Truck, Juliet Automotive Pvt Ltd,Small,January,North,26,361.8,612.26
+94,Truck Tyres LongHaul,Truck, alpha motors pvt ltd ,Big,January,East,55,358.26,1284.29
+95,Truck Tyres LongHaul,Truck, ALPHA MOTORS PVT LTD ,Big,January,East,89,372.84,2168.14
+96,Truck Tyres LongHaul,Truck, alpha motors pvt ltd ,Big,January,North,63,312.85,1308.23
+97,Truck Tyres LongHaul,Truck, ALPHA MOTORS PVT LTD ,Big,January,South,24,322.76,500.28
+98,Truck Tyres LongHaul,Truck, BRAVO AUTO CORP ,Medium,January,East,92,318.28,1869.21
+99,Truck Tyres LongHaul,Truck, Bravo Auto Corp,Medium,January,Central,11,336.13,243.83
+100,Truck Tyres LongHaul,Truck,Charlie Transport Ltd,Big,January,South,53,235.69,752.06
+101,Truck Tyres LongHaul,Truck, CHARLIE TRANSPORT LTD ,Big,January,South,29,330.85,619.54
+102,Truck Tyres LongHaul,Truck, CHARLIE TRANSPORT LTD ,Big,January,West,94,267.96,1713.53
+103,Truck Tyres LongHaul,Truck,delta vehicles pvt ltd,Big,January,North,41,397.32,1031.57
+104,Truck Tyres LongHaul,Truck,echo motors ltd ,Medium,January,North,39,345.61,827.56
+105,Truck Tyres LongHaul,Truck, ECHO MOTORS LTD,Medium,January,West,86,360.53,2087.4
+106,Truck Tyres LongHaul,Truck, Echo Motors Ltd,Medium,January,North,93,345.89,2144.26
+107,Truck Tyres LongHaul,Truck, ECHO MOTORS LTD ,Medium,January,East,38,304.7,740.97
+108,Truck Tyres LongHaul,Truck,foxtrot auto ltd ,Small,January,Central,40,362.09,881.38
+109,Truck Tyres LongHaul,Truck, foxtrot auto ltd ,Small,January,Central,58,205.84,785.17
+110,Truck Tyres LongHaul,Truck, Golf Motor Company ,Small,January,West,16,314.26,351.62
+111,Truck Tyres LongHaul,Truck,GOLF MOTOR COMPANY,Small,January,East,13,376.53,330.56
+112,Truck Tyres LongHaul,Truck,hotel wheels inc,Medium,January,West,72,268.47,1225.73
+113,Truck Tyres LongHaul,Truck, INDIA TYRES CO,Medium,January,West,63,344.13,1304.52
+114,Truck Tyres LongHaul,Truck,India Tyres Co,Medium,January,South,36,332.9,730.16
+115,Truck Tyres LongHaul,Truck, india tyres co,Medium,January,North,55,296.04,1006.57
+116,Truck Tyres LongHaul,Truck, INDIA TYRES CO,Medium,January,South,19,296.91,362.73
+117,Truck Tyres LongHaul,Truck,India Tyres Co,Medium,January,West,27,337.64,621.26
+118,Truck Tyres LongHaul,Truck, Juliet Automotive Pvt Ltd ,Small,January,East,13,360.9,302.52
+119,Cycle Tyres Speedster,Cycle, alpha motors pvt ltd,Big,January,North,100,98.26,685.56
+120,Cycle Tyres Speedster,Cycle, Alpha Motors Pvt Ltd ,Big,January,South,50,81.11,228.69
+121,Cycle Tyres Speedster,Cycle,bravo auto corp,Medium,January,Central,70,93.13,332.24
+122,Cycle Tyres Speedster,Cycle,Bravo Auto Corp,Medium,January,North,68,92.11,413.86
+123,Cycle Tyres Speedster,Cycle,Charlie Transport Ltd ,Big,January,West,82,77.66,442.25
+124,Cycle Tyres Speedster,Cycle, Charlie Transport Ltd ,Big,January,Central,20,85.59,116.12
+125,Cycle Tyres Speedster,Cycle,CHARLIE TRANSPORT LTD ,Big,January,Central,37,52.63,101.04
+126,Cycle Tyres Speedster,Cycle,Charlie Transport Ltd,Big,January,West,26,96.63,131.38
+127,Cycle Tyres Speedster,Cycle, Charlie Transport Ltd ,Big,January,East,93,79.78,445.69
+128,Cycle Tyres Speedster,Cycle, DELTA VEHICLES PVT LTD,Big,January,West,88,93.03,562.89
+129,Cycle Tyres Speedster,Cycle,delta vehicles pvt ltd ,Big,January,Central,72,72.54,297.69
+130,Cycle Tyres Speedster,Cycle,echo motors ltd,Medium,January,East,50,98.02,245.37
+131,Cycle Tyres Speedster,Cycle,Echo Motors Ltd,Medium,January,West,100,88.59,445.92
+132,Cycle Tyres Speedster,Cycle,FOXTROT AUTO LTD ,Small,January,North,45,88.26,204.58
+133,Cycle Tyres Speedster,Cycle, foxtrot auto ltd ,Small,January,East,42,66.07,166.96
+134,Cycle Tyres Speedster,Cycle, FOXTROT AUTO LTD,Small,January,East,40,91.63,187.09
+135,Cycle Tyres Speedster,Cycle,foxtrot auto ltd,Small,January,North,17,88.45,77.6
+136,Cycle Tyres Speedster,Cycle, Foxtrot Auto Ltd,Small,January,West,50,77.63,250.33
+137,Cycle Tyres Speedster,Cycle,Golf Motor Company,Small,January,East,97,62.73,352.03
+138,Cycle Tyres Speedster,Cycle, GOLF MOTOR COMPANY ,Small,January,East,72,57.96,261.02
+139,Cycle Tyres Speedster,Cycle, golf motor company,Small,January,East,59,59.93,182.34
+140,Cycle Tyres Speedster,Cycle, Hotel Wheels Inc,Medium,January,North,92,73.27,452.85
+141,Cycle Tyres Speedster,Cycle,HOTEL WHEELS INC ,Medium,January,North,83,85.47,483.94
+142,Cycle Tyres Speedster,Cycle,india tyres co ,Medium,January,West,88,92.28,504.7
+143,Cycle Tyres Speedster,Cycle,INDIA TYRES CO ,Medium,January,West,20,69.25,92.59
+144,Cycle Tyres Speedster,Cycle, juliet automotive pvt ltd ,Small,January,North,69,99.71,403.86
+145,Cycle Tyres Speedster,Cycle, Juliet Automotive Pvt Ltd,Small,January,East,10,67.59,41.38
+146,Cycle Tyres Rider,Cycle, Alpha Motors Pvt Ltd ,Big,January,West,32,66.25,106.49
+147,Cycle Tyres Rider,Cycle,bravo auto corp ,Medium,January,North,55,88.16,322.67
+148,Cycle Tyres Rider,Cycle, bravo auto corp,Medium,January,Central,27,67.79,91.7
+149,Cycle Tyres Rider,Cycle, Bravo Auto Corp ,Medium,January,Central,91,60.67,384.32
+150,Cycle Tyres Rider,Cycle, CHARLIE TRANSPORT LTD,Big,January,West,86,71.77,429.91
+151,Cycle Tyres Rider,Cycle,Delta Vehicles Pvt Ltd,Big,January,South,52,60.55,195.52
+152,Cycle Tyres Rider,Cycle, Delta Vehicles Pvt Ltd ,Big,January,South,59,63.94,250.37
+153,Cycle Tyres Rider,Cycle, DELTA VEHICLES PVT LTD ,Big,January,North,10,78.88,47.07
+154,Cycle Tyres Rider,Cycle, echo motors ltd ,Medium,January,North,21,74.11,94.29
+155,Cycle Tyres Rider,Cycle, ECHO MOTORS LTD ,Medium,January,South,18,76.92,69.25
+156,Cycle Tyres Rider,Cycle, ECHO MOTORS LTD ,Medium,January,South,28,87.19,123.85
+157,Cycle Tyres Rider,Cycle,FOXTROT AUTO LTD,Small,January,South,72,80.73,330.76
+158,Cycle Tyres Rider,Cycle, golf motor company,Small,January,Central,17,55.9,65.58
+159,Cycle Tyres Rider,Cycle,GOLF MOTOR COMPANY,Small,January,East,13,75.59,61.47
+160,Cycle Tyres Rider,Cycle, GOLF MOTOR COMPANY ,Small,January,Central,79,61.04,307.33
+161,Cycle Tyres Rider,Cycle,GOLF MOTOR COMPANY ,Small,January,East,71,87.44,383.21
+162,Cycle Tyres Rider,Cycle,GOLF MOTOR COMPANY,Small,January,Central,11,75.29,46.2
+163,Cycle Tyres Rider,Cycle, HOTEL WHEELS INC,Medium,January,West,41,95.78,270.34
+164,Cycle Tyres Rider,Cycle, HOTEL WHEELS INC,Medium,January,South,30,66.27,107.04
+165,Cycle Tyres Rider,Cycle,hotel wheels inc ,Medium,January,North,91,66.17,318.83
+166,Cycle Tyres Rider,Cycle, HOTEL WHEELS INC,Medium,January,East,88,99.23,443.22
+167,Cycle Tyres Rider,Cycle,India Tyres Co ,Medium,January,South,54,50.31,171.46
+168,Cycle Tyres Rider,Cycle,India Tyres Co,Medium,January,South,26,56.01,93.76
+169,Cycle Tyres Rider,Cycle, india tyres co ,Medium,January,North,27,68.13,100.19
+170,Cycle Tyres Rider,Cycle,India Tyres Co ,Medium,January,West,41,92.53,211.2
+171,Cycle Tyres Rider,Cycle, INDIA TYRES CO ,Medium,January,South,44,59.42,142.91
+172,Cycle Tyres Rider,Cycle, JULIET AUTOMOTIVE PVT LTD,Small,January,East,55,93.22,267.13
+173,Cycle Tyres Rider,Cycle,Juliet Automotive Pvt Ltd,Small,January,West,54,59.76,173.02
+174,Cycle Tyres Rider,Cycle,Juliet Automotive Pvt Ltd ,Small,January,Central,31,80.08,157.93
+175,Cycle Tyres Rider,Cycle,JULIET AUTOMOTIVE PVT LTD ,Small,January,South,51,75.32,235.1
+176,Cycle Tyres Rider,Cycle, Juliet Automotive Pvt Ltd,Small,January,East,14,54.55,39.71
+177,Two-wheeler Tyres Swift,Two-wheeler,alpha motors pvt ltd ,Big,January,West,13,110.39,79.29
+178,Two-wheeler Tyres Swift,Two-wheeler, ALPHA MOTORS PVT LTD ,Big,January,South,70,113.48,408.83
+179,Two-wheeler Tyres Swift,Two-wheeler,ALPHA MOTORS PVT LTD,Big,January,North,25,90.79,114.92
+180,Two-wheeler Tyres Swift,Two-wheeler, Alpha Motors Pvt Ltd ,Big,January,East,66,144.33,511.61
+181,Two-wheeler Tyres Swift,Two-wheeler, BRAVO AUTO CORP,Medium,January,South,79,124.68,503.58
+182,Two-wheeler Tyres Swift,Two-wheeler, Bravo Auto Corp,Medium,January,West,86,81.3,407.33
+183,Two-wheeler Tyres Swift,Two-wheeler,charlie transport ltd,Big,January,South,73,137.88,518.26
+184,Two-wheeler Tyres Swift,Two-wheeler,charlie transport ltd ,Big,January,West,24,82.11,112.28
+185,Two-wheeler Tyres Swift,Two-wheeler,delta vehicles pvt ltd,Big,January,West,26,81.67,122.81
+186,Two-wheeler Tyres Swift,Two-wheeler,delta vehicles pvt ltd ,Big,January,East,96,100.42,537.82
+187,Two-wheeler Tyres Swift,Two-wheeler, Delta Vehicles Pvt Ltd,Big,January,Central,24,85.31,113.53
+188,Two-wheeler Tyres Swift,Two-wheeler,DELTA VEHICLES PVT LTD ,Big,January,East,22,131.9,170.6
+189,Two-wheeler Tyres Swift,Two-wheeler, delta vehicles pvt ltd,Big,January,Central,33,111.79,187.37
+190,Two-wheeler Tyres Swift,Two-wheeler, ECHO MOTORS LTD ,Medium,January,Central,22,129.89,146.02
+191,Two-wheeler Tyres Swift,Two-wheeler,echo motors ltd,Medium,January,West,10,94.98,49.57
+192,Two-wheeler Tyres Swift,Two-wheeler, Echo Motors Ltd ,Medium,January,East,69,115.19,458.16
+193,Two-wheeler Tyres Swift,Two-wheeler,echo motors ltd,Medium,January,Central,59,83.02,291.24
+194,Two-wheeler Tyres Swift,Two-wheeler, echo motors ltd,Medium,January,North,11,147.06,89.45
+195,Two-wheeler Tyres Swift,Two-wheeler, Foxtrot Auto Ltd,Small,January,West,68,90.92,368.52
+196,Two-wheeler Tyres Swift,Two-wheeler,golf motor company ,Small,January,North,17,96.69,95.79
+197,Two-wheeler Tyres Swift,Two-wheeler, golf motor company,Small,January,North,83,128.6,587.16
+198,Two-wheeler Tyres Swift,Two-wheeler,Golf Motor Company,Small,January,East,47,123.98,348.07
+199,Two-wheeler Tyres Swift,Two-wheeler,HOTEL WHEELS INC ,Medium,January,South,86,101.98,501.41
+200,Two-wheeler Tyres Swift,Two-wheeler, INDIA TYRES CO,Medium,January,East,14,88.31,70.38
+201,Two-wheeler Tyres Swift,Two-wheeler,INDIA TYRES CO ,Medium,January,Central,31,124.89,218.57
+202,Two-wheeler Tyres Swift,Two-wheeler,india tyres co ,Medium,January,East,73,101.07,371.09
+203,Two-wheeler Tyres Swift,Two-wheeler, JULIET AUTOMOTIVE PVT LTD ,Small,January,Central,34,81.07,161.98
+204,Two-wheeler Tyres Swift,Two-wheeler, JULIET AUTOMOTIVE PVT LTD ,Small,January,West,37,105.56,217.2
+205,Two-wheeler Tyres Cruiser,Two-wheeler, Alpha Motors Pvt Ltd ,Big,January,Central,25,130.54,177.46
+206,Two-wheeler Tyres Cruiser,Two-wheeler,ALPHA MOTORS PVT LTD ,Big,January,Central,82,93.03,381.75
+207,Two-wheeler Tyres Cruiser,Two-wheeler,Alpha Motors Pvt Ltd ,Big,January,South,43,89.8,202.72
+208,Two-wheeler Tyres Cruiser,Two-wheeler, Alpha Motors Pvt Ltd ,Big,January,Central,56,127.07,387.05
+209,Two-wheeler Tyres Cruiser,Two-wheeler,alpha motors pvt ltd ,Big,January,South,15,135.63,121.85
+210,Two-wheeler Tyres Cruiser,Two-wheeler, bravo auto corp,Medium,January,South,92,116.83,554.38
+211,Two-wheeler Tyres Cruiser,Two-wheeler, BRAVO AUTO CORP,Medium,January,South,53,98.9,302.21
+212,Two-wheeler Tyres Cruiser,Two-wheeler, BRAVO AUTO CORP,Medium,January,West,26,121.32,187.57
+213,Two-wheeler Tyres Cruiser,Two-wheeler,Charlie Transport Ltd ,Big,January,East,27,135.26,185.02
+214,Two-wheeler Tyres Cruiser,Two-wheeler,CHARLIE TRANSPORT LTD ,Big,January,West,85,112.41,569.9
+215,Two-wheeler Tyres Cruiser,Two-wheeler, DELTA VEHICLES PVT LTD ,Big,January,Central,83,132.09,587.88
+216,Two-wheeler Tyres Cruiser,Two-wheeler, Delta Vehicles Pvt Ltd,Big,January,Central,76,133.42,511.69
+217,Two-wheeler Tyres Cruiser,Two-wheeler, echo motors ltd,Medium,January,East,77,115.26,491.45
+218,Two-wheeler Tyres Cruiser,Two-wheeler, echo motors ltd,Medium,January,Central,77,110.65,444.85
+219,Two-wheeler Tyres Cruiser,Two-wheeler,Echo Motors Ltd,Medium,January,North,30,108.34,177.49
+220,Two-wheeler Tyres Cruiser,Two-wheeler, echo motors ltd ,Medium,January,North,40,101.15,233.68
+221,Two-wheeler Tyres Cruiser,Two-wheeler,FOXTROT AUTO LTD ,Small,January,East,94,97.43,498.98
+222,Two-wheeler Tyres Cruiser,Two-wheeler, Foxtrot Auto Ltd ,Small,January,North,75,149.69,646.68
+223,Two-wheeler Tyres Cruiser,Two-wheeler, Golf Motor Company ,Small,January,East,18,128.94,130.73
+224,Two-wheeler Tyres Cruiser,Two-wheeler,GOLF MOTOR COMPANY ,Small,January,South,88,131.63,691.71
+225,Two-wheeler Tyres Cruiser,Two-wheeler, Hotel Wheels Inc ,Medium,January,East,100,91.51,510.45
+226,Two-wheeler Tyres Cruiser,Two-wheeler,hotel wheels inc ,Medium,January,South,86,144.84,654.32
+227,Two-wheeler Tyres Cruiser,Two-wheeler,HOTEL WHEELS INC ,Medium,January,North,15,146.92,116.69
+228,Two-wheeler Tyres Cruiser,Two-wheeler,Hotel Wheels Inc ,Medium,January,Central,74,95.75,393.63
+229,Two-wheeler Tyres Cruiser,Two-wheeler, Hotel Wheels Inc,Medium,January,East,57,146.87,459.8
+230,Two-wheeler Tyres Cruiser,Two-wheeler, india tyres co ,Medium,January,South,62,123.46,427.32
+231,Two-wheeler Tyres Cruiser,Two-wheeler, India Tyres Co ,Medium,January,Central,83,89.97,390.64
+232,Two-wheeler Tyres Cruiser,Two-wheeler,india tyres co,Medium,January,North,59,103.32,354.94
+233,Two-wheeler Tyres Cruiser,Two-wheeler,juliet automotive pvt ltd ,Small,January,West,92,101.78,484.25
+234,Two-wheeler Tyres Cruiser,Two-wheeler,Juliet Automotive Pvt Ltd ,Small,January,South,27,105.02,148.61
+235,Car Tyres Rapid,Car,ALPHA MOTORS PVT LTD ,Big,February,Central,46,120.64,291.71
+236,Car Tyres Rapid,Car,ALPHA MOTORS PVT LTD,Big,February,West,33,146.85,256.35
+237,Car Tyres Rapid,Car,ALPHA MOTORS PVT LTD,Big,February,Central,23,155.74,211.96
+238,Car Tyres Rapid,Car,ALPHA MOTORS PVT LTD ,Big,February,Central,46,164.73,443.35
+239,Car Tyres Rapid,Car, Bravo Auto Corp,Medium,February,West,96,118.9,634.67
+240,Car Tyres Rapid,Car, BRAVO AUTO CORP,Medium,February,West,36,170.43,342.97
+241,Car Tyres Rapid,Car,BRAVO AUTO CORP ,Medium,February,West,20,106.42,110.93
+242,Car Tyres Rapid,Car, BRAVO AUTO CORP ,Medium,February,East,93,133.5,706.09
+243,Car Tyres Rapid,Car, Bravo Auto Corp ,Medium,February,North,11,140.28,91.28
+244,Car Tyres Rapid,Car,Charlie Transport Ltd ,Big,February,East,85,109.33,543.57
+245,Car Tyres Rapid,Car, Charlie Transport Ltd ,Big,February,North,32,134.37,245.47
+246,Car Tyres Rapid,Car,CHARLIE TRANSPORT LTD,Big,February,West,48,157.07,414.79
+247,Car Tyres Rapid,Car, CHARLIE TRANSPORT LTD,Big,February,North,47,104.71,276.25
+248,Car Tyres Rapid,Car, Charlie Transport Ltd ,Big,February,East,22,172.82,221.62
+249,Car Tyres Rapid,Car,delta vehicles pvt ltd,Big,February,North,97,128.68,736.5
+250,Car Tyres Rapid,Car,Delta Vehicles Pvt Ltd,Big,February,West,75,113.34,493.18
+251,Car Tyres Rapid,Car,Delta Vehicles Pvt Ltd,Big,February,South,47,186.0,480.11
+252,Car Tyres Rapid,Car,DELTA VEHICLES PVT LTD,Big,February,Central,66,195.89,758.21
+253,Car Tyres Rapid,Car, Echo Motors Ltd ,Medium,February,East,56,124.59,411.34
+254,Car Tyres Rapid,Car, ECHO MOTORS LTD ,Medium,February,South,54,188.87,513.77
+255,Car Tyres Rapid,Car, echo motors ltd ,Medium,February,South,48,154.45,403.39
+256,Car Tyres Rapid,Car,FOXTROT AUTO LTD ,Small,February,North,32,189.24,315.18
+257,Car Tyres Rapid,Car,foxtrot auto ltd ,Small,February,South,44,160.05,404.51
+258,Car Tyres Rapid,Car, foxtrot auto ltd,Small,February,North,88,102.58,520.36
+259,Car Tyres Rapid,Car, Foxtrot Auto Ltd,Small,February,Central,37,165.68,336.16
+260,Car Tyres Rapid,Car, golf motor company ,Small,February,North,57,134.88,439.09
+261,Car Tyres Rapid,Car, GOLF MOTOR COMPANY ,Small,February,South,57,149.69,499.97
+262,Car Tyres Rapid,Car,golf motor company,Small,February,South,71,108.01,386.84
+263,Car Tyres Rapid,Car, Golf Motor Company ,Small,February,Central,95,116.16,604.02
+264,Car Tyres Rapid,Car, GOLF MOTOR COMPANY ,Small,February,East,61,153.99,552.25
+265,Car Tyres Rapid,Car,hotel wheels inc,Medium,February,East,98,188.2,1100.91
+266,Car Tyres Rapid,Car, HOTEL WHEELS INC ,Medium,February,North,74,159.24,645.9
+267,Car Tyres Rapid,Car, Hotel Wheels Inc ,Medium,February,North,75,164.74,624.91
+268,Car Tyres Rapid,Car, Hotel Wheels Inc,Medium,February,North,23,124.84,156.67
+269,Car Tyres Rapid,Car,hotel wheels inc,Medium,February,East,10,128.71,73.81
+270,Car Tyres Rapid,Car,india tyres co,Medium,February,West,88,132.55,697.36
+271,Car Tyres Rapid,Car,india tyres co,Medium,February,South,53,103.92,304.66
+272,Car Tyres Rapid,Car, India Tyres Co ,Medium,February,South,82,138.4,575.42
+273,Car Tyres Rapid,Car, Juliet Automotive Pvt Ltd ,Small,February,East,73,170.1,724.06
+274,Car Tyres Rapid,Car, Juliet Automotive Pvt Ltd,Small,February,North,75,189.6,769.69
+275,Car Tyres Gripper,Car,ALPHA MOTORS PVT LTD,Big,February,North,45,142.08,372.17
+276,Car Tyres Gripper,Car, BRAVO AUTO CORP ,Medium,February,West,24,199.57,268.6
+277,Car Tyres Gripper,Car, charlie transport ltd ,Big,February,East,96,113.41,653.12
+278,Car Tyres Gripper,Car,Charlie Transport Ltd ,Big,February,South,12,151.24,106.99
+279,Car Tyres Gripper,Car, CHARLIE TRANSPORT LTD,Big,February,West,34,114.99,203.75
+280,Car Tyres Gripper,Car,charlie transport ltd,Big,February,North,93,116.49,610.91
+281,Car Tyres Gripper,Car,Delta Vehicles Pvt Ltd,Big,February,West,53,164.73,488.22
+282,Car Tyres Gripper,Car,delta vehicles pvt ltd,Big,February,East,20,166.42,173.62
+283,Car Tyres Gripper,Car, echo motors ltd,Medium,February,East,35,111.01,206.44
+284,Car Tyres Gripper,Car, Echo Motors Ltd,Medium,February,North,78,115.15,473.7
+285,Car Tyres Gripper,Car,Echo Motors Ltd ,Medium,February,South,75,179.81,688.64
+286,Car Tyres Gripper,Car,echo motors ltd,Medium,February,West,23,199.07,273.75
+287,Car Tyres Gripper,Car,Echo Motors Ltd,Medium,February,Central,89,155.3,705.79
+288,Car Tyres Gripper,Car,foxtrot auto ltd,Small,February,East,36,169.4,355.76
+289,Car Tyres Gripper,Car,Foxtrot Auto Ltd,Small,February,Central,61,116.22,369.25
+290,Car Tyres Gripper,Car, FOXTROT AUTO LTD ,Small,February,East,43,178.58,415.18
+291,Car Tyres Gripper,Car,foxtrot auto ltd ,Small,February,North,19,112.29,119.76
+292,Car Tyres Gripper,Car, Foxtrot Auto Ltd ,Small,February,East,70,197.99,760.77
+293,Car Tyres Gripper,Car,GOLF MOTOR COMPANY,Small,February,West,20,178.65,203.1
+294,Car Tyres Gripper,Car, Golf Motor Company ,Small,February,East,39,169.04,381.12
+295,Car Tyres Gripper,Car,GOLF MOTOR COMPANY,Small,February,West,58,175.22,564.32
+296,Car Tyres Gripper,Car, GOLF MOTOR COMPANY ,Small,February,East,68,140.28,522.85
+297,Car Tyres Gripper,Car,GOLF MOTOR COMPANY ,Small,February,Central,81,145.75,642.68
+298,Car Tyres Gripper,Car, HOTEL WHEELS INC ,Medium,February,North,80,112.83,488.81
+299,Car Tyres Gripper,Car,india tyres co,Medium,February,South,47,126.43,319.59
+300,Car Tyres Gripper,Car, INDIA TYRES CO ,Medium,February,West,48,166.76,420.7
+301,Car Tyres Gripper,Car,India Tyres Co,Medium,February,West,94,127.59,613.16
+302,Car Tyres Gripper,Car, INDIA TYRES CO,Medium,February,Central,99,160.71,935.03
+303,Car Tyres Gripper,Car,Juliet Automotive Pvt Ltd,Small,February,East,91,105.48,511.62
+304,Car Tyres Gripper,Car,Juliet Automotive Pvt Ltd,Small,February,Central,58,192.78,584.37
+305,Car Tyres Gripper,Car,juliet automotive pvt ltd,Small,February,West,38,184.49,394.35
+306,Truck Tyres HeavyDuty,Truck, ALPHA MOTORS PVT LTD ,Big,February,North,76,359.34,1741.49
+307,Truck Tyres HeavyDuty,Truck,Alpha Motors Pvt Ltd,Big,February,East,74,270.47,1313.52
+308,Truck Tyres HeavyDuty,Truck,Alpha Motors Pvt Ltd ,Big,February,Central,25,390.54,612.53
+309,Truck Tyres HeavyDuty,Truck,BRAVO AUTO CORP ,Medium,February,East,21,327.29,430.02
+310,Truck Tyres HeavyDuty,Truck, CHARLIE TRANSPORT LTD ,Big,February,Central,68,288.61,1317.4
+311,Truck Tyres HeavyDuty,Truck,CHARLIE TRANSPORT LTD ,Big,February,West,71,225.44,1060.89
+312,Truck Tyres HeavyDuty,Truck,CHARLIE TRANSPORT LTD,Big,February,Central,86,309.11,1604.51
+313,Truck Tyres HeavyDuty,Truck, DELTA VEHICLES PVT LTD ,Big,February,South,81,312.47,1682.69
+314,Truck Tyres HeavyDuty,Truck, delta vehicles pvt ltd,Big,February,East,20,320.67,427.32
+315,Truck Tyres HeavyDuty,Truck, Delta Vehicles Pvt Ltd ,Big,February,Central,17,324.86,336.65
+316,Truck Tyres HeavyDuty,Truck, Delta Vehicles Pvt Ltd ,Big,February,South,52,362.86,1139.78
+317,Truck Tyres HeavyDuty,Truck,Echo Motors Ltd ,Medium,February,South,41,232.02,601.05
+318,Truck Tyres HeavyDuty,Truck, echo motors ltd ,Medium,February,North,90,396.66,2191.13
+319,Truck Tyres HeavyDuty,Truck, Echo Motors Ltd ,Medium,February,West,20,314.53,433.01
+320,Truck Tyres HeavyDuty,Truck,Foxtrot Auto Ltd ,Small,February,West,54,244.71,834.19
+321,Truck Tyres HeavyDuty,Truck,golf motor company,Small,February,East,12,381.83,279.26
+322,Truck Tyres HeavyDuty,Truck, GOLF MOTOR COMPANY,Small,February,North,34,245.88,566.91
+323,Truck Tyres HeavyDuty,Truck, Hotel Wheels Inc ,Medium,February,Central,11,379.89,254.84
+324,Truck Tyres HeavyDuty,Truck,HOTEL WHEELS INC ,Medium,February,North,29,376.12,752.15
+325,Truck Tyres HeavyDuty,Truck, INDIA TYRES CO ,Medium,February,Central,46,365.5,1012.72
+326,Truck Tyres HeavyDuty,Truck,india tyres co,Medium,February,West,37,347.51,827.62
+327,Truck Tyres HeavyDuty,Truck, juliet automotive pvt ltd ,Small,February,Central,44,350.47,991.98
+328,Truck Tyres LongHaul,Truck,ALPHA MOTORS PVT LTD ,Big,February,South,69,283.24,1326.68
+329,Truck Tyres LongHaul,Truck, Alpha Motors Pvt Ltd,Big,February,South,23,248.91,397.81
+330,Truck Tyres LongHaul,Truck, ALPHA MOTORS PVT LTD,Big,February,South,10,220.44,144.08
+331,Truck Tyres LongHaul,Truck, BRAVO AUTO CORP ,Medium,February,North,99,226.62,1510.37
+332,Truck Tyres LongHaul,Truck, bravo auto corp,Medium,February,East,74,285.13,1434.03
+333,Truck Tyres LongHaul,Truck,BRAVO AUTO CORP ,Medium,February,West,30,222.34,444.11
+334,Truck Tyres LongHaul,Truck, BRAVO AUTO CORP ,Medium,February,West,59,200.94,744.32
+335,Truck Tyres LongHaul,Truck,charlie transport ltd ,Big,February,Central,88,377.56,2220.39
+336,Truck Tyres LongHaul,Truck, Delta Vehicles Pvt Ltd,Big,February,South,92,236.42,1437.57
+337,Truck Tyres LongHaul,Truck, Delta Vehicles Pvt Ltd ,Big,February,Central,22,318.72,452.82
+338,Truck Tyres LongHaul,Truck,DELTA VEHICLES PVT LTD ,Big,February,North,34,316.48,739.04
+339,Truck Tyres LongHaul,Truck, ECHO MOTORS LTD ,Medium,February,South,24,284.42,457.76
+340,Truck Tyres LongHaul,Truck,foxtrot auto ltd ,Small,February,West,94,229.24,1493.33
+341,Truck Tyres LongHaul,Truck, Golf Motor Company,Small,February,Central,10,340.41,206.33
+342,Truck Tyres LongHaul,Truck, golf motor company,Small,February,West,18,338.64,415.05
+343,Truck Tyres LongHaul,Truck,Golf Motor Company ,Small,February,South,58,360.51,1345.05
+344,Truck Tyres LongHaul,Truck, Hotel Wheels Inc,Medium,February,Central,50,398.29,1325.91
+345,Truck Tyres LongHaul,Truck,Hotel Wheels Inc,Medium,February,East,67,242.06,1115.76
+346,Truck Tyres LongHaul,Truck, HOTEL WHEELS INC ,Medium,February,North,54,218.61,752.89
+347,Truck Tyres LongHaul,Truck,hotel wheels inc,Medium,February,West,44,345.0,1046.43
+348,Truck Tyres LongHaul,Truck, INDIA TYRES CO ,Medium,February,North,69,260.36,1187.29
+349,Truck Tyres LongHaul,Truck, India Tyres Co ,Medium,February,West,64,377.4,1671.78
+350,Truck Tyres LongHaul,Truck, INDIA TYRES CO,Medium,February,Central,61,281.75,1163.75
+351,Truck Tyres LongHaul,Truck, INDIA TYRES CO ,Medium,February,West,90,375.6,2198.78
+352,Truck Tyres LongHaul,Truck, India Tyres Co ,Medium,February,South,64,272.19,1090.35
+353,Truck Tyres LongHaul,Truck, juliet automotive pvt ltd ,Small,February,West,97,247.48,1566.5
+354,Truck Tyres LongHaul,Truck,juliet automotive pvt ltd ,Small,February,Central,81,367.16,1970.48
+355,Truck Tyres LongHaul,Truck,JULIET AUTOMOTIVE PVT LTD,Small,February,North,75,366.85,1691.13
+356,Truck Tyres LongHaul,Truck,Juliet Automotive Pvt Ltd,Small,February,West,41,331.29,913.34
+357,Truck Tyres LongHaul,Truck,Juliet Automotive Pvt Ltd,Small,February,South,54,279.43,978.6
+358,Cycle Tyres Speedster,Cycle,ALPHA MOTORS PVT LTD ,Big,February,West,31,77.06,124.15
+359,Cycle Tyres Speedster,Cycle, BRAVO AUTO CORP,Medium,February,East,35,69.54,156.73
+360,Cycle Tyres Speedster,Cycle,Charlie Transport Ltd ,Big,February,South,67,74.54,264.89
+361,Cycle Tyres Speedster,Cycle, Charlie Transport Ltd ,Big,February,West,76,92.06,362.62
+362,Cycle Tyres Speedster,Cycle, DELTA VEHICLES PVT LTD ,Big,February,Central,86,53.3,246.84
+363,Cycle Tyres Speedster,Cycle, Delta Vehicles Pvt Ltd ,Big,February,Central,13,66.55,46.75
+364,Cycle Tyres Speedster,Cycle, echo motors ltd,Medium,February,Central,69,88.36,332.1
+365,Cycle Tyres Speedster,Cycle, ECHO MOTORS LTD ,Medium,February,North,61,50.86,213.04
+366,Cycle Tyres Speedster,Cycle,ECHO MOTORS LTD,Medium,February,West,89,82.08,379.51
+367,Cycle Tyres Speedster,Cycle, Foxtrot Auto Ltd,Small,February,East,43,84.51,194.57
+368,Cycle Tyres Speedster,Cycle, Foxtrot Auto Ltd ,Small,February,East,56,63.63,193.75
+369,Cycle Tyres Speedster,Cycle, foxtrot auto ltd ,Small,February,East,75,74.99,339.05
+370,Cycle Tyres Speedster,Cycle, Foxtrot Auto Ltd,Small,February,North,20,82.72,110.75
+371,Cycle Tyres Speedster,Cycle,GOLF MOTOR COMPANY,Small,February,South,25,84.21,118.79
+372,Cycle Tyres Speedster,Cycle, GOLF MOTOR COMPANY ,Small,February,Central,10,80.27,42.95
+373,Cycle Tyres Speedster,Cycle, Golf Motor Company,Small,February,East,46,78.82,238.97
+374,Cycle Tyres Speedster,Cycle,Golf Motor Company ,Small,February,East,25,99.18,127.96
+375,Cycle Tyres Speedster,Cycle,Hotel Wheels Inc ,Medium,February,South,80,58.61,288.12
+376,Cycle Tyres Speedster,Cycle,India Tyres Co ,Medium,February,North,14,82.56,77.34
+377,Cycle Tyres Speedster,Cycle, india tyres co,Medium,February,Central,75,99.08,386.72
+378,Cycle Tyres Speedster,Cycle,India Tyres Co ,Medium,February,North,35,59.38,122.76
+379,Cycle Tyres Speedster,Cycle, india tyres co ,Medium,February,South,81,67.96,331.39
+380,Cycle Tyres Speedster,Cycle, JULIET AUTOMOTIVE PVT LTD,Small,February,West,44,79.22,236.88
+381,Cycle Tyres Rider,Cycle,alpha motors pvt ltd,Big,February,Central,29,58.01,85.01
+382,Cycle Tyres Rider,Cycle,Bravo Auto Corp ,Medium,February,South,93,80.55,462.79
+383,Cycle Tyres Rider,Cycle, BRAVO AUTO CORP ,Medium,February,West,72,87.42,350.86
+384,Cycle Tyres Rider,Cycle,charlie transport ltd,Big,February,South,58,89.27,358.31
+385,Cycle Tyres Rider,Cycle, Delta Vehicles Pvt Ltd ,Big,February,West,42,61.57,174.73
+386,Cycle Tyres Rider,Cycle,DELTA VEHICLES PVT LTD,Big,February,Central,61,91.42,339.94
+387,Cycle Tyres Rider,Cycle,delta vehicles pvt ltd ,Big,February,South,82,91.04,431.4
+388,Cycle Tyres Rider,Cycle, Delta Vehicles Pvt Ltd,Big,February,West,82,64.51,311.65
+389,Cycle Tyres Rider,Cycle, Echo Motors Ltd,Medium,February,East,65,55.78,239.69
+390,Cycle Tyres Rider,Cycle, Foxtrot Auto Ltd ,Small,February,North,99,70.19,468.11
+391,Cycle Tyres Rider,Cycle, foxtrot auto ltd ,Small,February,West,32,64.14,107.93
+392,Cycle Tyres Rider,Cycle,FOXTROT AUTO LTD ,Small,February,West,52,73.41,254.82
+393,Cycle Tyres Rider,Cycle,Foxtrot Auto Ltd,Small,February,East,51,70.68,195.53
+394,Cycle Tyres Rider,Cycle,Foxtrot Auto Ltd,Small,February,Central,60,64.2,218.34
+395,Cycle Tyres Rider,Cycle,Golf Motor Company ,Small,February,Central,46,68.8,188.65
+396,Cycle Tyres Rider,Cycle,GOLF MOTOR COMPANY,Small,February,Central,19,90.65,111.84
+397,Cycle Tyres Rider,Cycle, GOLF MOTOR COMPANY ,Small,February,South,87,98.01,493.6
+398,Cycle Tyres Rider,Cycle, GOLF MOTOR COMPANY ,Small,February,Central,54,74.48,247.78
+399,Cycle Tyres Rider,Cycle, hotel wheels inc ,Medium,February,North,21,63.58,79.45
+400,Cycle Tyres Rider,Cycle,HOTEL WHEELS INC,Medium,February,South,61,91.19,301.46
+401,Cycle Tyres Rider,Cycle, hotel wheels inc ,Medium,February,West,36,77.8,182.08
+402,Cycle Tyres Rider,Cycle,Hotel Wheels Inc ,Medium,February,West,20,68.38,76.51
+403,Cycle Tyres Rider,Cycle,INDIA TYRES CO ,Medium,February,South,50,72.6,185.7
+404,Cycle Tyres Rider,Cycle, juliet automotive pvt ltd ,Small,February,North,73,77.4,332.17
+405,Cycle Tyres Rider,Cycle,juliet automotive pvt ltd,Small,February,West,82,63.54,348.66
+406,Two-wheeler Tyres Swift,Two-wheeler, Alpha Motors Pvt Ltd,Big,February,East,62,111.15,352.16
+407,Two-wheeler Tyres Swift,Two-wheeler,bravo auto corp ,Medium,February,Central,22,122.77,146.55
+408,Two-wheeler Tyres Swift,Two-wheeler, Bravo Auto Corp ,Medium,February,South,53,84.56,255.87
+409,Two-wheeler Tyres Swift,Two-wheeler, BRAVO AUTO CORP ,Medium,February,Central,54,148.16,453.84
+410,Two-wheeler Tyres Swift,Two-wheeler,BRAVO AUTO CORP ,Medium,February,West,62,86.03,291.12
+411,Two-wheeler Tyres Swift,Two-wheeler, Bravo Auto Corp ,Medium,February,North,45,84.39,202.89
+412,Two-wheeler Tyres Swift,Two-wheeler, CHARLIE TRANSPORT LTD,Big,February,East,71,81.43,339.44
+413,Two-wheeler Tyres Swift,Two-wheeler,CHARLIE TRANSPORT LTD,Big,February,South,57,103.75,298.04
+414,Two-wheeler Tyres Swift,Two-wheeler, charlie transport ltd ,Big,February,South,71,115.21,483.83
+415,Two-wheeler Tyres Swift,Two-wheeler, CHARLIE TRANSPORT LTD,Big,February,Central,95,133.43,746.49
+416,Two-wheeler Tyres Swift,Two-wheeler,DELTA VEHICLES PVT LTD ,Big,February,South,36,81.13,163.02
+417,Two-wheeler Tyres Swift,Two-wheeler,Delta Vehicles Pvt Ltd,Big,February,North,92,147.68,745.61
+418,Two-wheeler Tyres Swift,Two-wheeler,delta vehicles pvt ltd ,Big,February,West,17,147.8,134.83
+419,Two-wheeler Tyres Swift,Two-wheeler,ECHO MOTORS LTD,Medium,February,South,61,83.44,304.78
+420,Two-wheeler Tyres Swift,Two-wheeler, Foxtrot Auto Ltd ,Small,February,West,45,125.42,336.04
+421,Two-wheeler Tyres Swift,Two-wheeler,Foxtrot Auto Ltd,Small,February,South,62,80.88,261.43
+422,Two-wheeler Tyres Swift,Two-wheeler,golf motor company,Small,February,North,97,99.91,513.67
+423,Two-wheeler Tyres Swift,Two-wheeler, golf motor company,Small,February,Central,61,145.59,520.35
+424,Two-wheeler Tyres Swift,Two-wheeler,GOLF MOTOR COMPANY,Small,February,East,77,147.3,618.13
+425,Two-wheeler Tyres Swift,Two-wheeler,hotel wheels inc,Medium,February,Central,35,82.62,164.8
+426,Two-wheeler Tyres Swift,Two-wheeler,hotel wheels inc,Medium,February,North,84,105.65,445.52
+427,Two-wheeler Tyres Swift,Two-wheeler,India Tyres Co,Medium,February,East,64,84.69,290.76
+428,Two-wheeler Tyres Swift,Two-wheeler,India Tyres Co ,Medium,February,Central,94,108.36,522.47
+429,Two-wheeler Tyres Swift,Two-wheeler, INDIA TYRES CO,Medium,February,South,42,125.37,275.55
+430,Two-wheeler Tyres Swift,Two-wheeler,juliet automotive pvt ltd,Small,February,South,24,130.98,177.6
+431,Two-wheeler Tyres Swift,Two-wheeler,juliet automotive pvt ltd ,Small,February,North,57,86.4,264.88
+432,Two-wheeler Tyres Cruiser,Two-wheeler, ALPHA MOTORS PVT LTD ,Big,February,North,11,80.61,47.6
+433,Two-wheeler Tyres Cruiser,Two-wheeler,alpha motors pvt ltd ,Big,February,North,10,88.78,46.97
+434,Two-wheeler Tyres Cruiser,Two-wheeler, BRAVO AUTO CORP ,Medium,February,North,61,80.15,274.16
+435,Two-wheeler Tyres Cruiser,Two-wheeler,BRAVO AUTO CORP,Medium,February,North,52,115.89,332.14
+436,Two-wheeler Tyres Cruiser,Two-wheeler,BRAVO AUTO CORP ,Medium,February,South,30,129.97,226.94
+437,Two-wheeler Tyres Cruiser,Two-wheeler, CHARLIE TRANSPORT LTD ,Big,February,West,52,139.77,377.81
+438,Two-wheeler Tyres Cruiser,Two-wheeler,Charlie Transport Ltd ,Big,February,North,49,101.25,276.18
+439,Two-wheeler Tyres Cruiser,Two-wheeler, charlie transport ltd ,Big,February,East,84,125.78,544.63
+440,Two-wheeler Tyres Cruiser,Two-wheeler,Charlie Transport Ltd,Big,February,North,36,108.92,214.63
+441,Two-wheeler Tyres Cruiser,Two-wheeler, charlie transport ltd,Big,February,South,25,98.45,123.18
+442,Two-wheeler Tyres Cruiser,Two-wheeler, DELTA VEHICLES PVT LTD ,Big,February,North,17,116.5,108.53
+443,Two-wheeler Tyres Cruiser,Two-wheeler, Delta Vehicles Pvt Ltd ,Big,February,South,54,117.4,372.57
+444,Two-wheeler Tyres Cruiser,Two-wheeler,delta vehicles pvt ltd,Big,February,West,29,115.57,180.11
+445,Two-wheeler Tyres Cruiser,Two-wheeler,DELTA VEHICLES PVT LTD ,Big,February,West,94,119.73,663.05
+446,Two-wheeler Tyres Cruiser,Two-wheeler, echo motors ltd,Medium,February,Central,32,122.8,226.8
+447,Two-wheeler Tyres Cruiser,Two-wheeler, Foxtrot Auto Ltd ,Small,February,East,54,98.79,303.28
+448,Two-wheeler Tyres Cruiser,Two-wheeler,foxtrot auto ltd ,Small,February,East,40,104.64,218.3
+449,Two-wheeler Tyres Cruiser,Two-wheeler, Foxtrot Auto Ltd ,Small,February,Central,66,126.69,456.7
+450,Two-wheeler Tyres Cruiser,Two-wheeler, FOXTROT AUTO LTD,Small,February,South,11,137.86,83.48
+451,Two-wheeler Tyres Cruiser,Two-wheeler, foxtrot auto ltd ,Small,February,South,75,135.98,590.01
+452,Two-wheeler Tyres Cruiser,Two-wheeler,Golf Motor Company,Small,February,West,10,109.27,55.52
+453,Two-wheeler Tyres Cruiser,Two-wheeler,Golf Motor Company,Small,February,East,57,117.96,352.47
+454,Two-wheeler Tyres Cruiser,Two-wheeler,golf motor company,Small,February,West,34,96.4,171.09
+455,Two-wheeler Tyres Cruiser,Two-wheeler, golf motor company,Small,February,West,27,144.21,196.36
+456,Two-wheeler Tyres Cruiser,Two-wheeler,GOLF MOTOR COMPANY,Small,February,East,88,107.21,498.38
+457,Two-wheeler Tyres Cruiser,Two-wheeler, Hotel Wheels Inc ,Medium,February,West,37,141.61,279.78
+458,Two-wheeler Tyres Cruiser,Two-wheeler,india tyres co ,Medium,February,East,40,146.17,346.15
+459,Two-wheeler Tyres Cruiser,Two-wheeler, india tyres co ,Medium,February,South,41,137.99,315.14
+460,Two-wheeler Tyres Cruiser,Two-wheeler, INDIA TYRES CO ,Medium,February,South,73,108.36,453.12
+461,Two-wheeler Tyres Cruiser,Two-wheeler,Juliet Automotive Pvt Ltd ,Small,February,South,72,140.95,537.52
+462,Two-wheeler Tyres Cruiser,Two-wheeler, juliet automotive pvt ltd,Small,February,Central,86,109.93,524.6
+463,Two-wheeler Tyres Cruiser,Two-wheeler,JULIET AUTOMOTIVE PVT LTD ,Small,February,South,33,96.1,165.95
+464,Two-wheeler Tyres Cruiser,Two-wheeler, Juliet Automotive Pvt Ltd,Small,February,North,58,107.21,316.57
+465,Car Tyres Rapid,Car,Alpha Motors Pvt Ltd,Big,March,West,11,148.69,96.37
+466,Car Tyres Rapid,Car,ALPHA MOTORS PVT LTD,Big,March,Central,30,196.09,297.13
+467,Car Tyres Rapid,Car, Bravo Auto Corp,Medium,March,Central,47,167.34,465.29
+468,Car Tyres Rapid,Car, BRAVO AUTO CORP ,Medium,March,East,65,156.45,522.25
+469,Car Tyres Rapid,Car,BRAVO AUTO CORP,Medium,March,North,77,122.94,530.78
+470,Car Tyres Rapid,Car, BRAVO AUTO CORP,Medium,March,East,30,174.89,276.35
+471,Car Tyres Rapid,Car, bravo auto corp,Medium,March,North,72,114.55,454.42
+472,Car Tyres Rapid,Car,CHARLIE TRANSPORT LTD ,Big,March,East,59,172.3,597.95
+473,Car Tyres Rapid,Car, CHARLIE TRANSPORT LTD ,Big,March,West,59,155.86,536.08
+474,Car Tyres Rapid,Car, charlie transport ltd ,Big,March,West,19,111.31,115.08
+475,Car Tyres Rapid,Car,DELTA VEHICLES PVT LTD,Big,March,East,46,172.76,471.01
+476,Car Tyres Rapid,Car, DELTA VEHICLES PVT LTD,Big,March,North,53,133.01,354.22
+477,Car Tyres Rapid,Car, Delta Vehicles Pvt Ltd ,Big,March,Central,55,105.1,345.46
+478,Car Tyres Rapid,Car,delta vehicles pvt ltd ,Big,March,West,11,194.98,120.31
+479,Car Tyres Rapid,Car, delta vehicles pvt ltd ,Big,March,West,32,174.83,287.36
+480,Car Tyres Rapid,Car,ECHO MOTORS LTD,Medium,March,North,10,128.5,66.48
+481,Car Tyres Rapid,Car,echo motors ltd ,Medium,March,East,86,182.27,895.58
+482,Car Tyres Rapid,Car,ECHO MOTORS LTD ,Medium,March,West,22,172.72,192.94
+483,Car Tyres Rapid,Car,foxtrot auto ltd,Small,March,East,90,101.28,488.43
+484,Car Tyres Rapid,Car,GOLF MOTOR COMPANY ,Small,March,North,62,105.16,362.73
+485,Car Tyres Rapid,Car,Golf Motor Company,Small,March,South,13,124.04,95.18
+486,Car Tyres Rapid,Car,Golf Motor Company,Small,March,North,50,100.97,272.45
+487,Car Tyres Rapid,Car,golf motor company,Small,March,Central,82,115.12,489.26
+488,Car Tyres Rapid,Car, GOLF MOTOR COMPANY,Small,March,West,15,158.33,122.1
+489,Car Tyres Rapid,Car,HOTEL WHEELS INC ,Medium,March,East,17,110.53,98.78
+490,Car Tyres Rapid,Car, hotel wheels inc ,Medium,March,West,52,123.52,342.75
+491,Car Tyres Rapid,Car,India Tyres Co,Medium,March,West,17,153.9,156.13
+492,Car Tyres Rapid,Car, india tyres co,Medium,March,West,15,162.7,145.83
+493,Car Tyres Rapid,Car, INDIA TYRES CO ,Medium,March,South,68,191.69,716.34
+494,Car Tyres Rapid,Car,India Tyres Co,Medium,March,South,92,117.97,626.96
+495,Car Tyres Rapid,Car,India Tyres Co ,Medium,March,Central,59,146.88,465.14
+496,Car Tyres Rapid,Car, JULIET AUTOMOTIVE PVT LTD,Small,March,West,58,112.36,332.88
+497,Car Tyres Rapid,Car,JULIET AUTOMOTIVE PVT LTD,Small,March,North,78,148.85,594.02
+498,Car Tyres Gripper,Car, ALPHA MOTORS PVT LTD,Big,March,North,80,112.91,528.56
+499,Car Tyres Gripper,Car,bravo auto corp ,Medium,March,West,21,159.38,191.8
+500,Car Tyres Gripper,Car,Charlie Transport Ltd ,Big,March,North,21,159.28,192.5
+501,Car Tyres Gripper,Car,charlie transport ltd ,Big,March,East,54,157.86,482.66
+502,Car Tyres Gripper,Car, Charlie Transport Ltd ,Big,March,Central,21,198.57,229.99
+503,Car Tyres Gripper,Car,Charlie Transport Ltd ,Big,March,West,41,144.53,316.34
+504,Car Tyres Gripper,Car, Delta Vehicles Pvt Ltd,Big,March,South,88,151.6,672.75
+505,Car Tyres Gripper,Car, delta vehicles pvt ltd,Big,March,West,48,133.64,353.35
+506,Car Tyres Gripper,Car, Delta Vehicles Pvt Ltd,Big,March,West,14,154.96,112.94
+507,Car Tyres Gripper,Car, delta vehicles pvt ltd,Big,March,North,12,184.09,120.24
+508,Car Tyres Gripper,Car,echo motors ltd,Medium,March,West,53,192.06,536.44
+509,Car Tyres Gripper,Car, ECHO MOTORS LTD ,Medium,March,West,12,154.13,107.49
+510,Car Tyres Gripper,Car, FOXTROT AUTO LTD ,Small,March,West,82,191.55,843.85
+511,Car Tyres Gripper,Car,foxtrot auto ltd ,Small,March,South,49,180.62,513.55
+512,Car Tyres Gripper,Car, Foxtrot Auto Ltd,Small,March,Central,11,190.65,122.82
+513,Car Tyres Gripper,Car,foxtrot auto ltd ,Small,March,East,68,184.79,710.19
+514,Car Tyres Gripper,Car,golf motor company,Small,March,East,70,120.37,437.09
+515,Car Tyres Gripper,Car,Golf Motor Company ,Small,March,North,21,147.11,174.03
+516,Car Tyres Gripper,Car,Hotel Wheels Inc ,Medium,March,North,52,125.4,353.89
+517,Car Tyres Gripper,Car,HOTEL WHEELS INC ,Medium,March,South,64,145.46,536.28
+518,Car Tyres Gripper,Car, India Tyres Co,Medium,March,South,12,106.14,67.58
+519,Car Tyres Gripper,Car,JULIET AUTOMOTIVE PVT LTD,Small,March,North,44,140.95,354.87
+520,Car Tyres Gripper,Car,juliet automotive pvt ltd ,Small,March,Central,64,118.19,451.77
+521,Truck Tyres HeavyDuty,Truck, ALPHA MOTORS PVT LTD ,Big,March,South,48,361.3,1119.21
+522,Truck Tyres HeavyDuty,Truck, Alpha Motors Pvt Ltd ,Big,March,North,29,386.12,699.44
+523,Truck Tyres HeavyDuty,Truck, Alpha Motors Pvt Ltd,Big,March,West,80,307.03,1640.73
+524,Truck Tyres HeavyDuty,Truck,ALPHA MOTORS PVT LTD,Big,March,East,74,279.43,1349.73
+525,Truck Tyres HeavyDuty,Truck,Alpha Motors Pvt Ltd ,Big,March,Central,93,397.28,2266.89
+526,Truck Tyres HeavyDuty,Truck, Bravo Auto Corp,Medium,March,East,74,256.71,1269.87
+527,Truck Tyres HeavyDuty,Truck, BRAVO AUTO CORP,Medium,March,West,11,262.71,197.12
+528,Truck Tyres HeavyDuty,Truck,BRAVO AUTO CORP,Medium,March,East,54,265.97,924.54
+529,Truck Tyres HeavyDuty,Truck,charlie transport ltd,Big,March,North,82,220.72,1262.53
+530,Truck Tyres HeavyDuty,Truck,CHARLIE TRANSPORT LTD ,Big,March,North,78,210.27,1071.14
+531,Truck Tyres HeavyDuty,Truck,Delta Vehicles Pvt Ltd,Big,March,Central,87,219.37,1244.46
+532,Truck Tyres HeavyDuty,Truck,Delta Vehicles Pvt Ltd,Big,March,North,100,305.91,2122.41
+533,Truck Tyres HeavyDuty,Truck, delta vehicles pvt ltd,Big,March,Central,47,212.29,652.69
+534,Truck Tyres HeavyDuty,Truck, Delta Vehicles Pvt Ltd,Big,March,East,85,266.07,1524.36
+535,Truck Tyres HeavyDuty,Truck, delta vehicles pvt ltd ,Big,March,West,41,339.97,889.67
+536,Truck Tyres HeavyDuty,Truck,ECHO MOTORS LTD ,Medium,March,Central,28,391.74,681.63
+537,Truck Tyres HeavyDuty,Truck, foxtrot auto ltd,Small,March,South,67,346.78,1620.02
+538,Truck Tyres HeavyDuty,Truck, foxtrot auto ltd ,Small,March,South,76,390.9,1950.24
+539,Truck Tyres HeavyDuty,Truck, golf motor company ,Small,March,Central,29,266.12,472.9
+540,Truck Tyres HeavyDuty,Truck,golf motor company,Small,March,West,34,384.27,908.17
+541,Truck Tyres HeavyDuty,Truck,golf motor company ,Small,March,West,37,294.89,666.76
+542,Truck Tyres HeavyDuty,Truck, golf motor company ,Small,March,Central,58,200.79,722.16
+543,Truck Tyres HeavyDuty,Truck,Hotel Wheels Inc,Medium,March,East,41,381.84,1067.61
+544,Truck Tyres HeavyDuty,Truck,INDIA TYRES CO,Medium,March,East,86,372.32,2115.61
+545,Truck Tyres HeavyDuty,Truck,India Tyres Co,Medium,March,North,55,329.36,1199.81
+546,Truck Tyres HeavyDuty,Truck,India Tyres Co ,Medium,March,West,92,211.17,1233.64
+547,Truck Tyres HeavyDuty,Truck, india tyres co ,Medium,March,Central,65,228.96,1026.45
+548,Truck Tyres HeavyDuty,Truck, india tyres co,Medium,March,Central,84,269.63,1465.51
+549,Truck Tyres HeavyDuty,Truck,Juliet Automotive Pvt Ltd,Small,March,East,38,274.87,664.38
+550,Truck Tyres LongHaul,Truck,ALPHA MOTORS PVT LTD,Big,March,South,76,290.73,1350.48
+551,Truck Tyres LongHaul,Truck,ALPHA MOTORS PVT LTD ,Big,March,East,81,383.95,1926.23
+552,Truck Tyres LongHaul,Truck,ALPHA MOTORS PVT LTD,Big,March,North,98,279.3,1904.27
+553,Truck Tyres LongHaul,Truck, Bravo Auto Corp,Medium,March,North,13,314.59,275.77
+554,Truck Tyres LongHaul,Truck,BRAVO AUTO CORP,Medium,March,East,52,394.66,1419.35
+555,Truck Tyres LongHaul,Truck, bravo auto corp,Medium,March,West,34,208.75,438.53
+556,Truck Tyres LongHaul,Truck, bravo auto corp,Medium,March,Central,72,283.34,1239.05
+557,Truck Tyres LongHaul,Truck, Bravo Auto Corp ,Medium,March,Central,32,383.24,849.92
+558,Truck Tyres LongHaul,Truck, Charlie Transport Ltd ,Big,March,West,71,259.56,1180.09
+559,Truck Tyres LongHaul,Truck,CHARLIE TRANSPORT LTD,Big,March,Central,35,248.25,560.01
+560,Truck Tyres LongHaul,Truck, charlie transport ltd ,Big,March,West,91,321.92,1837.88
+561,Truck Tyres LongHaul,Truck, charlie transport ltd ,Big,March,East,57,312.73,1172.61
+562,Truck Tyres LongHaul,Truck, CHARLIE TRANSPORT LTD,Big,March,East,55,253.54,852.19
+563,Truck Tyres LongHaul,Truck,delta vehicles pvt ltd ,Big,March,South,41,355.11,1012.92
+564,Truck Tyres LongHaul,Truck,DELTA VEHICLES PVT LTD,Big,March,East,61,265.82,1016.26
+565,Truck Tyres LongHaul,Truck, ECHO MOTORS LTD ,Medium,March,North,46,204.41,624.62
+566,Truck Tyres LongHaul,Truck, ECHO MOTORS LTD ,Medium,March,North,88,345.3,1882.49
+567,Truck Tyres LongHaul,Truck, ECHO MOTORS LTD ,Medium,March,Central,94,354.09,2320.26
+568,Truck Tyres LongHaul,Truck,echo motors ltd ,Medium,March,West,64,206.43,894.97
+569,Truck Tyres LongHaul,Truck, ECHO MOTORS LTD,Medium,March,Central,85,232.54,1256.23
+570,Truck Tyres LongHaul,Truck,FOXTROT AUTO LTD ,Small,March,Central,48,348.86,1096.71
+571,Truck Tyres LongHaul,Truck, FOXTROT AUTO LTD ,Small,March,East,36,212.13,509.76
+572,Truck Tyres LongHaul,Truck, foxtrot auto ltd,Small,March,East,22,341.53,506.71
+573,Truck Tyres LongHaul,Truck, FOXTROT AUTO LTD ,Small,March,North,43,262.47,741.53
+574,Truck Tyres LongHaul,Truck,golf motor company ,Small,March,South,96,331.64,2063.86
+575,Truck Tyres LongHaul,Truck,GOLF MOTOR COMPANY,Small,March,Central,46,301.91,866.58
+576,Truck Tyres LongHaul,Truck, Hotel Wheels Inc ,Medium,March,North,53,354.01,1151.62
+577,Truck Tyres LongHaul,Truck, Hotel Wheels Inc ,Medium,March,South,35,207.85,458.28
+578,Truck Tyres LongHaul,Truck, hotel wheels inc ,Medium,March,West,100,221.26,1375.47
+579,Truck Tyres LongHaul,Truck,hotel wheels inc ,Medium,March,North,57,280.01,1016.06
+580,Truck Tyres LongHaul,Truck,INDIA TYRES CO,Medium,March,Central,89,230.36,1251.09
+581,Truck Tyres LongHaul,Truck,Juliet Automotive Pvt Ltd ,Small,March,East,38,229.81,550.35
+582,Cycle Tyres Speedster,Cycle,ALPHA MOTORS PVT LTD ,Big,March,North,38,65.77,135.83
+583,Cycle Tyres Speedster,Cycle, alpha motors pvt ltd ,Big,March,West,22,71.13,93.61
+584,Cycle Tyres Speedster,Cycle,Alpha Motors Pvt Ltd ,Big,March,Central,81,50.21,219.93
+585,Cycle Tyres Speedster,Cycle, alpha motors pvt ltd ,Big,March,East,74,82.06,321.54
+586,Cycle Tyres Speedster,Cycle,ALPHA MOTORS PVT LTD ,Big,March,South,90,60.78,338.04
+587,Cycle Tyres Speedster,Cycle, Bravo Auto Corp ,Medium,March,West,89,74.22,447.54
+588,Cycle Tyres Speedster,Cycle, bravo auto corp,Medium,March,North,93,58.99,349.25
+589,Cycle Tyres Speedster,Cycle, bravo auto corp,Medium,March,East,54,89.8,299.32
+590,Cycle Tyres Speedster,Cycle,bravo auto corp ,Medium,March,East,91,82.68,456.96
+591,Cycle Tyres Speedster,Cycle, CHARLIE TRANSPORT LTD,Big,March,East,66,97.88,343.92
+592,Cycle Tyres Speedster,Cycle, Delta Vehicles Pvt Ltd ,Big,March,South,41,55.72,152.35
+593,Cycle Tyres Speedster,Cycle,DELTA VEHICLES PVT LTD,Big,March,North,20,78.68,97.72
+594,Cycle Tyres Speedster,Cycle, delta vehicles pvt ltd ,Big,March,South,32,64.01,114.85
+595,Cycle Tyres Speedster,Cycle, Delta Vehicles Pvt Ltd ,Big,March,South,55,57.77,208.47
+596,Cycle Tyres Speedster,Cycle, Delta Vehicles Pvt Ltd ,Big,March,North,41,78.7,206.27
+597,Cycle Tyres Speedster,Cycle, Echo Motors Ltd ,Medium,March,South,68,52.19,185.24
+598,Cycle Tyres Speedster,Cycle, ECHO MOTORS LTD,Medium,March,South,70,58.4,262.44
+599,Cycle Tyres Speedster,Cycle, ECHO MOTORS LTD ,Medium,March,East,48,53.29,147.53
+600,Cycle Tyres Speedster,Cycle, Foxtrot Auto Ltd,Small,March,South,17,70.98,65.96
+601,Cycle Tyres Speedster,Cycle, foxtrot auto ltd ,Small,March,West,22,79.09,121.46
+602,Cycle Tyres Speedster,Cycle, Foxtrot Auto Ltd,Small,March,North,22,65.66,96.4
+603,Cycle Tyres Speedster,Cycle,FOXTROT AUTO LTD ,Small,March,West,60,75.82,288.51
+604,Cycle Tyres Speedster,Cycle, FOXTROT AUTO LTD ,Small,March,East,41,94.79,219.25
+605,Cycle Tyres Speedster,Cycle, GOLF MOTOR COMPANY,Small,March,West,55,99.15,310.18
+606,Cycle Tyres Speedster,Cycle, GOLF MOTOR COMPANY ,Small,March,North,69,80.18,376.38
+607,Cycle Tyres Speedster,Cycle,Hotel Wheels Inc,Medium,March,North,88,82.7,495.1
+608,Cycle Tyres Speedster,Cycle, hotel wheels inc ,Medium,March,East,26,88.46,125.79
+609,Cycle Tyres Speedster,Cycle, Hotel Wheels Inc ,Medium,March,West,15,55.92,48.32
+610,Cycle Tyres Speedster,Cycle,INDIA TYRES CO ,Medium,March,East,69,82.99,388.47
+611,Cycle Tyres Speedster,Cycle,India Tyres Co ,Medium,March,East,44,84.27,230.12
+612,Cycle Tyres Speedster,Cycle,India Tyres Co,Medium,March,East,23,96.58,119.05
+613,Cycle Tyres Speedster,Cycle,juliet automotive pvt ltd ,Small,March,West,58,53.37,200.95
+614,Cycle Tyres Speedster,Cycle,JULIET AUTOMOTIVE PVT LTD,Small,March,South,24,92.58,145.71
+615,Cycle Tyres Speedster,Cycle,Juliet Automotive Pvt Ltd,Small,March,West,26,54.95,96.34
+616,Cycle Tyres Rider,Cycle, Alpha Motors Pvt Ltd,Big,March,Central,62,53.14,223.44
+617,Cycle Tyres Rider,Cycle, Alpha Motors Pvt Ltd,Big,March,Central,29,61.07,104.72
+618,Cycle Tyres Rider,Cycle,Alpha Motors Pvt Ltd,Big,March,North,85,63.37,312.84
+619,Cycle Tyres Rider,Cycle,Alpha Motors Pvt Ltd ,Big,March,North,25,89.56,146.37
+620,Cycle Tyres Rider,Cycle, alpha motors pvt ltd,Big,March,North,40,58.32,121.1
+621,Cycle Tyres Rider,Cycle,BRAVO AUTO CORP,Medium,March,East,26,73.58,105.57
+622,Cycle Tyres Rider,Cycle,Charlie Transport Ltd,Big,March,South,84,71.37,308.19
+623,Cycle Tyres Rider,Cycle, CHARLIE TRANSPORT LTD,Big,March,North,31,54.22,107.5
+624,Cycle Tyres Rider,Cycle,DELTA VEHICLES PVT LTD,Big,March,East,56,77.24,224.96
+625,Cycle Tyres Rider,Cycle, delta vehicles pvt ltd,Big,March,East,69,59.74,263.85
+626,Cycle Tyres Rider,Cycle,Echo Motors Ltd,Medium,March,West,42,90.58,233.18
+627,Cycle Tyres Rider,Cycle,ECHO MOTORS LTD ,Medium,March,Central,81,64.77,366.29
+628,Cycle Tyres Rider,Cycle,ECHO MOTORS LTD,Medium,March,North,21,76.67,101.38
+629,Cycle Tyres Rider,Cycle,FOXTROT AUTO LTD,Small,March,North,70,97.1,404.74
+630,Cycle Tyres Rider,Cycle,FOXTROT AUTO LTD ,Small,March,North,77,75.88,298.21
+631,Cycle Tyres Rider,Cycle, Foxtrot Auto Ltd,Small,March,Central,48,89.24,264.8
+632,Cycle Tyres Rider,Cycle, FOXTROT AUTO LTD,Small,March,East,94,81.7,385.4
+633,Cycle Tyres Rider,Cycle,foxtrot auto ltd ,Small,March,Central,53,51.12,142.3
+634,Cycle Tyres Rider,Cycle,GOLF MOTOR COMPANY ,Small,March,East,58,82.62,247.01
+635,Cycle Tyres Rider,Cycle,golf motor company,Small,March,South,10,66.99,40.47
+636,Cycle Tyres Rider,Cycle, Hotel Wheels Inc ,Medium,March,North,92,54.5,279.98
+637,Cycle Tyres Rider,Cycle,hotel wheels inc ,Medium,March,Central,86,64.82,386.21
+638,Cycle Tyres Rider,Cycle, hotel wheels inc ,Medium,March,Central,91,82.35,491.68
+639,Cycle Tyres Rider,Cycle, india tyres co,Medium,March,Central,54,75.08,217.44
+640,Cycle Tyres Rider,Cycle,JULIET AUTOMOTIVE PVT LTD ,Small,March,East,49,70.91,222.05
+641,Two-wheeler Tyres Swift,Two-wheeler,Alpha Motors Pvt Ltd,Big,March,East,30,112.98,190.87
+642,Two-wheeler Tyres Swift,Two-wheeler, alpha motors pvt ltd ,Big,March,South,48,132.7,332.25
+643,Two-wheeler Tyres Swift,Two-wheeler, ALPHA MOTORS PVT LTD ,Big,March,West,25,98.83,146.45
+644,Two-wheeler Tyres Swift,Two-wheeler,ALPHA MOTORS PVT LTD,Big,March,South,14,99.99,79.81
+645,Two-wheeler Tyres Swift,Two-wheeler, Alpha Motors Pvt Ltd ,Big,March,South,25,95.05,136.88
+646,Two-wheeler Tyres Swift,Two-wheeler, Bravo Auto Corp ,Medium,March,East,41,106.45,247.01
+647,Two-wheeler Tyres Swift,Two-wheeler, BRAVO AUTO CORP ,Medium,March,South,97,81.02,442.77
+648,Two-wheeler Tyres Swift,Two-wheeler,Bravo Auto Corp,Medium,March,East,59,82.8,268.38
+649,Two-wheeler Tyres Swift,Two-wheeler, CHARLIE TRANSPORT LTD ,Big,March,Central,96,82.07,414.23
+650,Two-wheeler Tyres Swift,Two-wheeler, Charlie Transport Ltd ,Big,March,East,49,97.66,285.89
+651,Two-wheeler Tyres Swift,Two-wheeler,Charlie Transport Ltd,Big,March,East,48,120.12,293.91
+652,Two-wheeler Tyres Swift,Two-wheeler, DELTA VEHICLES PVT LTD ,Big,March,East,66,114.77,382.09
+653,Two-wheeler Tyres Swift,Two-wheeler,DELTA VEHICLES PVT LTD ,Big,March,Central,36,114.58,243.86
+654,Two-wheeler Tyres Swift,Two-wheeler,DELTA VEHICLES PVT LTD ,Big,March,North,84,113.76,559.74
+655,Two-wheeler Tyres Swift,Two-wheeler, ECHO MOTORS LTD ,Medium,March,Central,53,102.42,318.72
+656,Two-wheeler Tyres Swift,Two-wheeler, ECHO MOTORS LTD,Medium,March,South,92,99.98,545.03
+657,Two-wheeler Tyres Swift,Two-wheeler,echo motors ltd ,Medium,March,North,69,119.76,462.0
+658,Two-wheeler Tyres Swift,Two-wheeler, FOXTROT AUTO LTD ,Small,March,Central,90,102.55,466.03
+659,Two-wheeler Tyres Swift,Two-wheeler,FOXTROT AUTO LTD,Small,March,East,82,145.1,640.23
+660,Two-wheeler Tyres Swift,Two-wheeler,foxtrot auto ltd ,Small,March,East,24,146.59,198.88
+661,Two-wheeler Tyres Swift,Two-wheeler, Foxtrot Auto Ltd ,Small,March,North,77,98.9,405.97
+662,Two-wheeler Tyres Swift,Two-wheeler, foxtrot auto ltd,Small,March,West,100,144.02,738.26
+663,Two-wheeler Tyres Swift,Two-wheeler, golf motor company,Small,March,South,34,103.35,176.03
+664,Two-wheeler Tyres Swift,Two-wheeler,golf motor company ,Small,March,West,50,81.91,212.99
+665,Two-wheeler Tyres Swift,Two-wheeler, Golf Motor Company,Small,March,North,74,110.26,424.53
+666,Two-wheeler Tyres Swift,Two-wheeler,Golf Motor Company ,Small,March,North,30,106.17,186.44
+667,Two-wheeler Tyres Swift,Two-wheeler,HOTEL WHEELS INC ,Medium,March,Central,73,98.83,398.69
+668,Two-wheeler Tyres Swift,Two-wheeler, India Tyres Co ,Medium,March,South,77,113.74,462.0
+669,Two-wheeler Tyres Swift,Two-wheeler,INDIA TYRES CO ,Medium,March,South,79,146.84,617.97
+670,Two-wheeler Tyres Swift,Two-wheeler, juliet automotive pvt ltd,Small,March,North,84,94.16,466.1
+671,Two-wheeler Tyres Swift,Two-wheeler,Juliet Automotive Pvt Ltd,Small,March,East,36,107.16,213.13
+672,Two-wheeler Tyres Swift,Two-wheeler, juliet automotive pvt ltd ,Small,March,South,73,129.41,558.54
+673,Two-wheeler Tyres Swift,Two-wheeler, Juliet Automotive Pvt Ltd,Small,March,South,34,113.4,224.3
+674,Two-wheeler Tyres Swift,Two-wheeler,Juliet Automotive Pvt Ltd,Small,March,West,76,132.89,601.12
+675,Two-wheeler Tyres Cruiser,Two-wheeler, alpha motors pvt ltd ,Big,March,South,66,92.44,317.95
+676,Two-wheeler Tyres Cruiser,Two-wheeler, ALPHA MOTORS PVT LTD,Big,March,North,25,91.41,133.0
+677,Two-wheeler Tyres Cruiser,Two-wheeler,BRAVO AUTO CORP ,Medium,March,East,99,135.48,800.02
+678,Two-wheeler Tyres Cruiser,Two-wheeler,CHARLIE TRANSPORT LTD,Big,March,East,66,113.59,433.64
+679,Two-wheeler Tyres Cruiser,Two-wheeler, charlie transport ltd ,Big,March,West,16,84.56,75.88
+680,Two-wheeler Tyres Cruiser,Two-wheeler,charlie transport ltd ,Big,March,South,39,107.4,249.88
+681,Two-wheeler Tyres Cruiser,Two-wheeler, CHARLIE TRANSPORT LTD,Big,March,Central,38,124.0,271.15
+682,Two-wheeler Tyres Cruiser,Two-wheeler, Charlie Transport Ltd ,Big,March,East,47,122.23,317.37
+683,Two-wheeler Tyres Cruiser,Two-wheeler,DELTA VEHICLES PVT LTD,Big,March,South,95,103.73,583.17
+684,Two-wheeler Tyres Cruiser,Two-wheeler, delta vehicles pvt ltd,Big,March,East,93,91.89,433.84
+685,Two-wheeler Tyres Cruiser,Two-wheeler, delta vehicles pvt ltd ,Big,March,Central,76,137.12,539.55
+686,Two-wheeler Tyres Cruiser,Two-wheeler,DELTA VEHICLES PVT LTD ,Big,March,Central,95,149.72,718.19
+687,Two-wheeler Tyres Cruiser,Two-wheeler, echo motors ltd,Medium,March,North,85,126.2,636.76
+688,Two-wheeler Tyres Cruiser,Two-wheeler,ECHO MOTORS LTD,Medium,March,East,35,93.83,192.14
+689,Two-wheeler Tyres Cruiser,Two-wheeler, echo motors ltd ,Medium,March,West,91,100.44,462.35
+690,Two-wheeler Tyres Cruiser,Two-wheeler, Echo Motors Ltd ,Medium,March,South,74,114.41,445.33
+691,Two-wheeler Tyres Cruiser,Two-wheeler,FOXTROT AUTO LTD ,Small,March,East,70,110.91,388.5
+692,Two-wheeler Tyres Cruiser,Two-wheeler,Golf Motor Company ,Small,March,North,89,144.29,749.42
+693,Two-wheeler Tyres Cruiser,Two-wheeler,golf motor company,Small,March,Central,30,146.09,220.6
+694,Two-wheeler Tyres Cruiser,Two-wheeler,Golf Motor Company,Small,March,South,92,97.12,490.85
+695,Two-wheeler Tyres Cruiser,Two-wheeler,golf motor company,Small,March,South,53,115.37,318.65
+696,Two-wheeler Tyres Cruiser,Two-wheeler,golf motor company ,Small,March,East,38,131.91,275.23
+697,Two-wheeler Tyres Cruiser,Two-wheeler,Hotel Wheels Inc ,Medium,March,South,17,114.58,107.2
+698,Two-wheeler Tyres Cruiser,Two-wheeler, HOTEL WHEELS INC ,Medium,March,Central,57,105.34,317.35
+699,Two-wheeler Tyres Cruiser,Two-wheeler,India Tyres Co ,Medium,March,West,11,116.85,64.37
+700,Two-wheeler Tyres Cruiser,Two-wheeler, juliet automotive pvt ltd ,Small,March,West,92,87.41,462.45
+701,Two-wheeler Tyres Cruiser,Two-wheeler,Juliet Automotive Pvt Ltd,Small,March,North,80,83.64,356.41
+702,Two-wheeler Tyres Cruiser,Two-wheeler, Juliet Automotive Pvt Ltd ,Small,March,South,44,147.11,341.03
+703,Two-wheeler Tyres Cruiser,Two-wheeler,JULIET AUTOMOTIVE PVT LTD ,Small,March,South,73,98.42,379.18
+704,Two-wheeler Tyres Cruiser,Two-wheeler,Juliet Automotive Pvt Ltd,Small,March,West,81,110.89,489.99
+705,Car Tyres Rapid,Car, alpha motors pvt ltd,Big,April,North,66,103.37,349.11
+706,Car Tyres Rapid,Car,bravo auto corp,Medium,April,North,15,122.76,105.54
+707,Car Tyres Rapid,Car,BRAVO AUTO CORP,Medium,April,East,89,142.41,718.88
+708,Car Tyres Rapid,Car,Bravo Auto Corp ,Medium,April,Central,37,100.61,206.34
+709,Car Tyres Rapid,Car, BRAVO AUTO CORP,Medium,April,North,26,130.41,198.35
+710,Car Tyres Rapid,Car,Charlie Transport Ltd ,Big,April,South,21,158.88,166.87
+711,Car Tyres Rapid,Car, charlie transport ltd ,Big,April,Central,18,143.58,140.71
+712,Car Tyres Rapid,Car,DELTA VEHICLES PVT LTD ,Big,April,West,13,154.12,109.93
+713,Car Tyres Rapid,Car, DELTA VEHICLES PVT LTD ,Big,April,North,11,173.45,110.27
+714,Car Tyres Rapid,Car,Delta Vehicles Pvt Ltd ,Big,April,East,82,102.46,435.9
+715,Car Tyres Rapid,Car,ECHO MOTORS LTD ,Medium,April,Central,11,117.31,76.0
+716,Car Tyres Rapid,Car, Echo Motors Ltd,Medium,April,Central,65,133.93,478.86
+717,Car Tyres Rapid,Car, ECHO MOTORS LTD ,Medium,April,West,35,132.24,268.81
+718,Car Tyres Rapid,Car,foxtrot auto ltd ,Small,April,West,26,114.5,150.69
+719,Car Tyres Rapid,Car,Golf Motor Company,Small,April,East,43,161.78,353.19
+720,Car Tyres Rapid,Car, GOLF MOTOR COMPANY ,Small,April,East,85,180.08,828.81
+721,Car Tyres Rapid,Car,GOLF MOTOR COMPANY ,Small,April,Central,76,169.27,717.57
+722,Car Tyres Rapid,Car, GOLF MOTOR COMPANY,Small,April,North,26,116.59,178.4
+723,Car Tyres Rapid,Car,Hotel Wheels Inc ,Medium,April,East,98,149.82,880.87
+724,Car Tyres Rapid,Car,india tyres co,Medium,April,West,12,143.39,89.13
+725,Car Tyres Rapid,Car, India Tyres Co ,Medium,April,North,22,134.47,165.71
+726,Car Tyres Rapid,Car,INDIA TYRES CO,Medium,April,East,80,158.08,682.39
+727,Car Tyres Rapid,Car, juliet automotive pvt ltd ,Small,April,East,82,155.85,667.12
+728,Car Tyres Rapid,Car,Juliet Automotive Pvt Ltd,Small,April,North,77,114.33,500.38
+729,Car Tyres Rapid,Car, JULIET AUTOMOTIVE PVT LTD,Small,April,West,16,166.63,140.62
+730,Car Tyres Gripper,Car,Alpha Motors Pvt Ltd,Big,April,South,100,131.9,759.52
+731,Car Tyres Gripper,Car,Alpha Motors Pvt Ltd ,Big,April,North,95,153.17,765.19
+732,Car Tyres Gripper,Car,ALPHA MOTORS PVT LTD,Big,April,East,71,180.16,703.24
+733,Car Tyres Gripper,Car, ALPHA MOTORS PVT LTD ,Big,April,South,72,143.42,612.99
+734,Car Tyres Gripper,Car, alpha motors pvt ltd,Big,April,North,65,136.12,510.01
+735,Car Tyres Gripper,Car, BRAVO AUTO CORP ,Medium,April,South,12,101.03,60.65
+736,Car Tyres Gripper,Car,BRAVO AUTO CORP ,Medium,April,West,46,138.18,344.51
+737,Car Tyres Gripper,Car, bravo auto corp,Medium,April,South,75,190.85,717.57
+738,Car Tyres Gripper,Car, Charlie Transport Ltd ,Big,April,East,57,130.1,438.36
+739,Car Tyres Gripper,Car, charlie transport ltd ,Big,April,North,31,187.66,306.25
+740,Car Tyres Gripper,Car,Delta Vehicles Pvt Ltd,Big,April,West,87,153.39,727.53
+741,Car Tyres Gripper,Car,Delta Vehicles Pvt Ltd ,Big,April,East,93,132.41,631.44
+742,Car Tyres Gripper,Car,Delta Vehicles Pvt Ltd,Big,April,West,75,146.51,553.27
+743,Car Tyres Gripper,Car,Echo Motors Ltd,Medium,April,South,33,171.82,338.2
+744,Car Tyres Gripper,Car, ECHO MOTORS LTD,Medium,April,South,29,145.37,215.22
+745,Car Tyres Gripper,Car, echo motors ltd,Medium,April,Central,39,154.96,342.58
+746,Car Tyres Gripper,Car,Echo Motors Ltd ,Medium,April,North,48,115.95,305.89
+747,Car Tyres Gripper,Car,Echo Motors Ltd ,Medium,April,East,99,100.56,573.85
+748,Car Tyres Gripper,Car,foxtrot auto ltd,Small,April,South,13,184.52,137.34
+749,Car Tyres Gripper,Car, golf motor company,Small,April,West,55,113.24,348.97
+750,Car Tyres Gripper,Car,golf motor company ,Small,April,North,87,153.23,734.75
+751,Car Tyres Gripper,Car,Golf Motor Company,Small,April,East,34,101.57,202.83
+752,Car Tyres Gripper,Car, GOLF MOTOR COMPANY,Small,April,East,97,116.74,594.12
+753,Car Tyres Gripper,Car,HOTEL WHEELS INC ,Medium,April,East,24,157.04,221.19
+754,Car Tyres Gripper,Car, hotel wheels inc,Medium,April,North,48,186.7,500.48
+755,Car Tyres Gripper,Car, hotel wheels inc,Medium,April,South,97,118.06,637.64
+756,Car Tyres Gripper,Car, hotel wheels inc,Medium,April,East,18,180.73,171.04
+757,Car Tyres Gripper,Car,hotel wheels inc ,Medium,April,Central,34,147.24,272.56
+758,Car Tyres Gripper,Car, INDIA TYRES CO,Medium,April,Central,69,106.84,396.47
+759,Car Tyres Gripper,Car, india tyres co,Medium,April,Central,14,102.89,72.54
+760,Car Tyres Gripper,Car, India Tyres Co,Medium,April,East,84,119.06,573.35
+761,Car Tyres Gripper,Car,INDIA TYRES CO,Medium,April,West,69,176.05,632.69
+762,Car Tyres Gripper,Car,Juliet Automotive Pvt Ltd ,Small,April,Central,26,139.6,187.49
+763,Car Tyres Gripper,Car, juliet automotive pvt ltd ,Small,April,North,45,126.45,291.57
+764,Car Tyres Gripper,Car, juliet automotive pvt ltd,Small,April,South,66,130.91,455.06
+765,Truck Tyres HeavyDuty,Truck, alpha motors pvt ltd ,Big,April,North,90,309.62,1755.47
+766,Truck Tyres HeavyDuty,Truck,Alpha Motors Pvt Ltd,Big,April,North,72,370.67,1652.65
+767,Truck Tyres HeavyDuty,Truck, bravo auto corp,Medium,April,West,57,336.01,1233.25
+768,Truck Tyres HeavyDuty,Truck, bravo auto corp ,Medium,April,North,62,316.05,1298.1
+769,Truck Tyres HeavyDuty,Truck,charlie transport ltd ,Big,April,East,93,228.43,1454.85
+770,Truck Tyres HeavyDuty,Truck, charlie transport ltd,Big,April,Central,56,241.78,840.02
+771,Truck Tyres HeavyDuty,Truck, charlie transport ltd ,Big,April,West,61,245.68,936.14
+772,Truck Tyres HeavyDuty,Truck, Delta Vehicles Pvt Ltd,Big,April,East,85,307.73,1593.28
+773,Truck Tyres HeavyDuty,Truck, Delta Vehicles Pvt Ltd,Big,April,South,28,375.57,693.37
+774,Truck Tyres HeavyDuty,Truck,DELTA VEHICLES PVT LTD,Big,April,East,28,379.88,643.57
+775,Truck Tyres HeavyDuty,Truck, delta vehicles pvt ltd ,Big,April,Central,20,242.73,293.91
+776,Truck Tyres HeavyDuty,Truck,echo motors ltd,Medium,April,South,35,259.96,553.21
+777,Truck Tyres HeavyDuty,Truck,echo motors ltd,Medium,April,West,40,281.36,778.06
+778,Truck Tyres HeavyDuty,Truck,ECHO MOTORS LTD,Medium,April,North,82,210.29,1148.69
+779,Truck Tyres HeavyDuty,Truck,Echo Motors Ltd ,Medium,April,South,90,343.87,1904.41
+780,Truck Tyres HeavyDuty,Truck,Echo Motors Ltd ,Medium,April,North,87,296.14,1753.51
+781,Truck Tyres HeavyDuty,Truck,Foxtrot Auto Ltd ,Small,April,West,80,383.53,2104.87
+782,Truck Tyres HeavyDuty,Truck,Foxtrot Auto Ltd,Small,April,South,36,359.51,840.88
+783,Truck Tyres HeavyDuty,Truck, FOXTROT AUTO LTD,Small,April,East,16,242.26,254.63
+784,Truck Tyres HeavyDuty,Truck, Foxtrot Auto Ltd ,Small,April,South,77,267.1,1377.89
+785,Truck Tyres HeavyDuty,Truck,Golf Motor Company ,Small,April,West,58,378.35,1409.28
+786,Truck Tyres HeavyDuty,Truck,golf motor company ,Small,April,North,50,257.66,839.25
+787,Truck Tyres HeavyDuty,Truck, golf motor company ,Small,April,East,16,283.87,303.2
+788,Truck Tyres HeavyDuty,Truck, golf motor company,Small,April,South,66,394.6,1808.85
+789,Truck Tyres HeavyDuty,Truck, Golf Motor Company,Small,April,South,43,222.68,642.85
+790,Truck Tyres HeavyDuty,Truck,hotel wheels inc,Medium,April,West,37,385.63,921.85
+791,Truck Tyres HeavyDuty,Truck,Hotel Wheels Inc ,Medium,April,North,43,393.46,1099.11
+792,Truck Tyres HeavyDuty,Truck,Hotel Wheels Inc ,Medium,April,East,96,333.97,2063.21
+793,Truck Tyres HeavyDuty,Truck,HOTEL WHEELS INC,Medium,April,West,31,204.61,443.61
+794,Truck Tyres HeavyDuty,Truck, HOTEL WHEELS INC ,Medium,April,South,84,332.1,1889.78
+795,Truck Tyres HeavyDuty,Truck, India Tyres Co ,Medium,April,West,47,364.54,1048.93
+796,Truck Tyres HeavyDuty,Truck,India Tyres Co,Medium,April,Central,73,346.51,1665.24
+797,Truck Tyres HeavyDuty,Truck,INDIA TYRES CO,Medium,April,South,69,270.99,1232.75
+798,Truck Tyres HeavyDuty,Truck,india tyres co ,Medium,April,West,89,372.01,2278.23
+799,Truck Tyres HeavyDuty,Truck,juliet automotive pvt ltd ,Small,April,West,32,284.62,613.31
+800,Truck Tyres HeavyDuty,Truck,JULIET AUTOMOTIVE PVT LTD,Small,April,West,20,234.3,306.94
+801,Truck Tyres HeavyDuty,Truck,juliet automotive pvt ltd,Small,April,Central,32,224.73,439.42
+802,Truck Tyres HeavyDuty,Truck,Juliet Automotive Pvt Ltd ,Small,April,West,29,386.81,766.22
+803,Truck Tyres LongHaul,Truck, Alpha Motors Pvt Ltd ,Big,April,South,80,319.51,1656.55
+804,Truck Tyres LongHaul,Truck, alpha motors pvt ltd ,Big,April,West,19,241.67,317.08
+805,Truck Tyres LongHaul,Truck, alpha motors pvt ltd ,Big,April,West,70,378.73,1821.06
+806,Truck Tyres LongHaul,Truck, Bravo Auto Corp ,Medium,April,Central,82,336.14,1681.09
+807,Truck Tyres LongHaul,Truck,Bravo Auto Corp ,Medium,April,Central,53,299.18,1025.66
+808,Truck Tyres LongHaul,Truck, BRAVO AUTO CORP,Medium,April,North,41,265.07,744.44
+809,Truck Tyres LongHaul,Truck,bravo auto corp,Medium,April,East,83,316.4,1800.61
+810,Truck Tyres LongHaul,Truck,Charlie Transport Ltd,Big,April,North,33,399.98,879.99
+811,Truck Tyres LongHaul,Truck, Charlie Transport Ltd ,Big,April,North,71,210.49,966.1
+812,Truck Tyres LongHaul,Truck,Charlie Transport Ltd ,Big,April,South,88,364.22,1956.89
+813,Truck Tyres LongHaul,Truck, Delta Vehicles Pvt Ltd ,Big,April,North,68,283.61,1289.54
+814,Truck Tyres LongHaul,Truck, ECHO MOTORS LTD ,Medium,April,East,86,322.77,1772.43
+815,Truck Tyres LongHaul,Truck, echo motors ltd,Medium,April,South,81,387.1,2066.69
+816,Truck Tyres LongHaul,Truck,echo motors ltd ,Medium,April,North,13,211.32,178.31
+817,Truck Tyres LongHaul,Truck,Foxtrot Auto Ltd,Small,April,Central,100,328.78,2249.77
+818,Truck Tyres LongHaul,Truck,FOXTROT AUTO LTD ,Small,April,Central,18,242.16,292.41
+819,Truck Tyres LongHaul,Truck, Foxtrot Auto Ltd ,Small,April,Central,20,319.11,404.15
+820,Truck Tyres LongHaul,Truck, golf motor company,Small,April,East,60,323.06,1219.01
+821,Truck Tyres LongHaul,Truck,golf motor company ,Small,April,West,70,227.94,1028.94
+822,Truck Tyres LongHaul,Truck,Golf Motor Company ,Small,April,West,84,267.09,1427.14
+823,Truck Tyres LongHaul,Truck, GOLF MOTOR COMPANY ,Small,April,South,67,341.33,1575.32
+824,Truck Tyres LongHaul,Truck,hotel wheels inc ,Medium,April,West,87,281.64,1566.19
+825,Truck Tyres LongHaul,Truck, INDIA TYRES CO ,Medium,April,South,41,319.52,880.14
+826,Truck Tyres LongHaul,Truck,juliet automotive pvt ltd,Small,April,North,86,323.37,1814.82
+827,Truck Tyres LongHaul,Truck, Juliet Automotive Pvt Ltd ,Small,April,Central,34,220.82,472.95
+828,Cycle Tyres Speedster,Cycle, ALPHA MOTORS PVT LTD,Big,April,East,95,96.5,618.21
+829,Cycle Tyres Speedster,Cycle, alpha motors pvt ltd ,Big,April,South,18,76.1,84.95
+830,Cycle Tyres Speedster,Cycle, alpha motors pvt ltd ,Big,April,Central,51,84.74,236.35
+831,Cycle Tyres Speedster,Cycle, ALPHA MOTORS PVT LTD ,Big,April,East,22,55.42,74.77
+832,Cycle Tyres Speedster,Cycle, Alpha Motors Pvt Ltd,Big,April,Central,78,68.67,342.3
+833,Cycle Tyres Speedster,Cycle,bravo auto corp,Medium,April,West,63,72.78,306.45
+834,Cycle Tyres Speedster,Cycle,BRAVO AUTO CORP,Medium,April,North,31,61.75,124.82
+835,Cycle Tyres Speedster,Cycle,Bravo Auto Corp ,Medium,April,East,100,80.0,495.85
+836,Cycle Tyres Speedster,Cycle, CHARLIE TRANSPORT LTD,Big,April,West,49,89.7,278.08
+837,Cycle Tyres Speedster,Cycle,charlie transport ltd ,Big,April,Central,69,98.0,439.19
+838,Cycle Tyres Speedster,Cycle, Charlie Transport Ltd ,Big,April,South,74,63.39,317.11
+839,Cycle Tyres Speedster,Cycle, delta vehicles pvt ltd,Big,April,South,11,84.39,50.43
+840,Cycle Tyres Speedster,Cycle, delta vehicles pvt ltd,Big,April,West,72,99.63,370.31
+841,Cycle Tyres Speedster,Cycle,delta vehicles pvt ltd ,Big,April,East,91,57.97,297.24
+842,Cycle Tyres Speedster,Cycle, ECHO MOTORS LTD,Medium,April,North,28,91.75,177.43
+843,Cycle Tyres Speedster,Cycle,Echo Motors Ltd,Medium,April,West,24,79.75,120.52
+844,Cycle Tyres Speedster,Cycle,ECHO MOTORS LTD ,Medium,April,South,36,66.38,146.08
+845,Cycle Tyres Speedster,Cycle,FOXTROT AUTO LTD,Small,April,East,51,70.32,241.6
+846,Cycle Tyres Speedster,Cycle,Foxtrot Auto Ltd ,Small,April,West,35,58.47,102.96
+847,Cycle Tyres Speedster,Cycle,Foxtrot Auto Ltd ,Small,April,East,43,77.29,228.49
+848,Cycle Tyres Speedster,Cycle, Foxtrot Auto Ltd ,Small,April,South,16,88.91,80.68
+849,Cycle Tyres Speedster,Cycle, FOXTROT AUTO LTD ,Small,April,East,94,97.05,571.76
+850,Cycle Tyres Speedster,Cycle,golf motor company,Small,April,South,32,54.27,94.98
+851,Cycle Tyres Speedster,Cycle,hotel wheels inc ,Medium,April,Central,20,96.8,118.84
+852,Cycle Tyres Speedster,Cycle,india tyres co,Medium,April,West,40,77.35,167.21
+853,Cycle Tyres Speedster,Cycle,india tyres co,Medium,April,West,10,78.68,46.76
+854,Cycle Tyres Speedster,Cycle, juliet automotive pvt ltd ,Small,April,South,86,85.96,392.54
+855,Cycle Tyres Speedster,Cycle,JULIET AUTOMOTIVE PVT LTD,Small,April,East,26,95.08,155.47
+856,Cycle Tyres Rider,Cycle,Alpha Motors Pvt Ltd,Big,April,South,44,81.04,220.95
+857,Cycle Tyres Rider,Cycle,ALPHA MOTORS PVT LTD,Big,April,West,35,96.19,172.03
+858,Cycle Tyres Rider,Cycle, alpha motors pvt ltd ,Big,April,South,26,60.4,84.02
+859,Cycle Tyres Rider,Cycle, Bravo Auto Corp ,Medium,April,North,70,96.12,461.84
+860,Cycle Tyres Rider,Cycle,BRAVO AUTO CORP,Medium,April,East,81,71.43,357.89
+861,Cycle Tyres Rider,Cycle, bravo auto corp,Medium,April,South,15,52.29,47.96
+862,Cycle Tyres Rider,Cycle, Bravo Auto Corp ,Medium,April,West,25,80.81,128.44
+863,Cycle Tyres Rider,Cycle, bravo auto corp,Medium,April,Central,97,79.7,393.03
+864,Cycle Tyres Rider,Cycle, Charlie Transport Ltd ,Big,April,East,38,80.02,199.59
+865,Cycle Tyres Rider,Cycle,DELTA VEHICLES PVT LTD ,Big,April,Central,43,59.91,158.08
+866,Cycle Tyres Rider,Cycle, Echo Motors Ltd ,Medium,April,West,97,73.27,431.35
+867,Cycle Tyres Rider,Cycle, echo motors ltd ,Medium,April,West,24,91.4,120.68
+868,Cycle Tyres Rider,Cycle,Echo Motors Ltd ,Medium,April,Central,10,72.85,37.25
+869,Cycle Tyres Rider,Cycle,Echo Motors Ltd,Medium,April,East,32,72.14,127.27
+870,Cycle Tyres Rider,Cycle, Foxtrot Auto Ltd ,Small,April,East,84,86.76,439.63
+871,Cycle Tyres Rider,Cycle, FOXTROT AUTO LTD ,Small,April,West,95,99.73,487.53
+872,Cycle Tyres Rider,Cycle,Foxtrot Auto Ltd,Small,April,East,100,92.5,560.81
+873,Cycle Tyres Rider,Cycle,golf motor company ,Small,April,South,76,92.65,424.8
+874,Cycle Tyres Rider,Cycle, Golf Motor Company,Small,April,Central,71,50.67,203.03
+875,Cycle Tyres Rider,Cycle,golf motor company,Small,April,Central,16,74.96,75.56
+876,Cycle Tyres Rider,Cycle, golf motor company,Small,April,East,73,60.25,236.29
+877,Cycle Tyres Rider,Cycle, HOTEL WHEELS INC,Medium,April,West,75,97.16,498.6
+878,Cycle Tyres Rider,Cycle,hotel wheels inc,Medium,April,East,30,54.76,98.0
+879,Cycle Tyres Rider,Cycle,hotel wheels inc,Medium,April,South,40,86.43,186.57
+880,Cycle Tyres Rider,Cycle,INDIA TYRES CO,Medium,April,West,61,81.95,337.59
+881,Cycle Tyres Rider,Cycle,Juliet Automotive Pvt Ltd,Small,April,West,71,62.68,227.18
+882,Cycle Tyres Rider,Cycle,juliet automotive pvt ltd ,Small,April,East,68,83.87,292.05
+883,Cycle Tyres Rider,Cycle, JULIET AUTOMOTIVE PVT LTD,Small,April,Central,87,73.66,407.9
+884,Cycle Tyres Rider,Cycle,JULIET AUTOMOTIVE PVT LTD,Small,April,Central,83,55.83,264.08
+885,Cycle Tyres Rider,Cycle,Juliet Automotive Pvt Ltd,Small,April,Central,67,75.65,260.43
+886,Two-wheeler Tyres Swift,Two-wheeler,Alpha Motors Pvt Ltd,Big,April,South,38,126.73,255.81
+887,Two-wheeler Tyres Swift,Two-wheeler,ALPHA MOTORS PVT LTD,Big,April,West,82,145.31,598.82
+888,Two-wheeler Tyres Swift,Two-wheeler, Alpha Motors Pvt Ltd,Big,April,West,28,134.42,193.08
+889,Two-wheeler Tyres Swift,Two-wheeler,Bravo Auto Corp,Medium,April,West,81,137.64,598.96
+890,Two-wheeler Tyres Swift,Two-wheeler, BRAVO AUTO CORP,Medium,April,East,81,104.43,458.7
+891,Two-wheeler Tyres Swift,Two-wheeler,CHARLIE TRANSPORT LTD ,Big,April,East,88,132.96,614.05
+892,Two-wheeler Tyres Swift,Two-wheeler, Charlie Transport Ltd,Big,April,East,23,103.9,138.36
+893,Two-wheeler Tyres Swift,Two-wheeler,Charlie Transport Ltd ,Big,April,South,28,139.92,231.8
+894,Two-wheeler Tyres Swift,Two-wheeler,CHARLIE TRANSPORT LTD ,Big,April,West,27,111.79,166.67
+895,Two-wheeler Tyres Swift,Two-wheeler, DELTA VEHICLES PVT LTD ,Big,April,West,62,91.75,290.48
+896,Two-wheeler Tyres Swift,Two-wheeler,DELTA VEHICLES PVT LTD ,Big,April,Central,12,102.49,73.41
+897,Two-wheeler Tyres Swift,Two-wheeler,ECHO MOTORS LTD,Medium,April,Central,52,142.61,431.87
+898,Two-wheeler Tyres Swift,Two-wheeler, ECHO MOTORS LTD ,Medium,April,East,14,136.57,101.47
+899,Two-wheeler Tyres Swift,Two-wheeler,Echo Motors Ltd ,Medium,April,South,72,145.86,525.55
+900,Two-wheeler Tyres Swift,Two-wheeler, foxtrot auto ltd ,Small,April,South,20,82.41,83.86
+901,Two-wheeler Tyres Swift,Two-wheeler,foxtrot auto ltd ,Small,April,East,79,117.46,489.54
+902,Two-wheeler Tyres Swift,Two-wheeler, FOXTROT AUTO LTD ,Small,April,North,69,146.13,576.76
+903,Two-wheeler Tyres Swift,Two-wheeler, FOXTROT AUTO LTD,Small,April,East,92,89.17,461.6
+904,Two-wheeler Tyres Swift,Two-wheeler,Golf Motor Company,Small,April,West,12,129.05,85.39
+905,Two-wheeler Tyres Swift,Two-wheeler,Golf Motor Company,Small,April,East,80,96.05,434.82
+906,Two-wheeler Tyres Swift,Two-wheeler, GOLF MOTOR COMPANY ,Small,April,Central,40,121.11,244.55
+907,Two-wheeler Tyres Swift,Two-wheeler,GOLF MOTOR COMPANY ,Small,April,Central,16,147.99,131.62
+908,Two-wheeler Tyres Swift,Two-wheeler, HOTEL WHEELS INC,Medium,April,North,23,120.36,156.96
+909,Two-wheeler Tyres Swift,Two-wheeler,Hotel Wheels Inc ,Medium,April,Central,63,111.96,354.58
+910,Two-wheeler Tyres Swift,Two-wheeler,Hotel Wheels Inc,Medium,April,North,91,92.24,490.25
+911,Two-wheeler Tyres Swift,Two-wheeler,HOTEL WHEELS INC,Medium,April,South,30,148.47,265.77
+912,Two-wheeler Tyres Swift,Two-wheeler, HOTEL WHEELS INC,Medium,April,South,61,146.92,489.79
+913,Two-wheeler Tyres Swift,Two-wheeler, india tyres co,Medium,April,South,17,89.43,82.65
+914,Two-wheeler Tyres Swift,Two-wheeler,India Tyres Co,Medium,April,West,66,128.99,472.61
+915,Two-wheeler Tyres Swift,Two-wheeler,India Tyres Co ,Medium,April,North,88,127.36,620.14
+916,Two-wheeler Tyres Swift,Two-wheeler,juliet automotive pvt ltd ,Small,April,South,42,134.19,301.18
+917,Two-wheeler Tyres Swift,Two-wheeler, Juliet Automotive Pvt Ltd ,Small,April,South,100,98.06,539.68
+918,Two-wheeler Tyres Cruiser,Two-wheeler,alpha motors pvt ltd,Big,April,West,95,86.46,466.42
+919,Two-wheeler Tyres Cruiser,Two-wheeler, alpha motors pvt ltd ,Big,April,Central,95,95.15,523.59
+920,Two-wheeler Tyres Cruiser,Two-wheeler,ALPHA MOTORS PVT LTD ,Big,April,North,40,127.13,257.42
+921,Two-wheeler Tyres Cruiser,Two-wheeler, Bravo Auto Corp,Medium,April,Central,55,104.89,313.73
+922,Two-wheeler Tyres Cruiser,Two-wheeler,BRAVO AUTO CORP,Medium,April,South,60,91.43,309.52
+923,Two-wheeler Tyres Cruiser,Two-wheeler, bravo auto corp ,Medium,April,North,42,92.77,220.28
+924,Two-wheeler Tyres Cruiser,Two-wheeler,bravo auto corp ,Medium,April,Central,24,141.49,200.49
+925,Two-wheeler Tyres Cruiser,Two-wheeler,Charlie Transport Ltd,Big,April,South,62,143.08,475.1
+926,Two-wheeler Tyres Cruiser,Two-wheeler, charlie transport ltd,Big,April,North,79,107.69,465.65
+927,Two-wheeler Tyres Cruiser,Two-wheeler,delta vehicles pvt ltd ,Big,April,South,61,133.76,445.53
+928,Two-wheeler Tyres Cruiser,Two-wheeler,Delta Vehicles Pvt Ltd,Big,April,East,11,117.19,69.34
+929,Two-wheeler Tyres Cruiser,Two-wheeler, delta vehicles pvt ltd,Big,April,West,71,114.65,414.48
+930,Two-wheeler Tyres Cruiser,Two-wheeler,delta vehicles pvt ltd,Big,April,Central,69,103.81,365.18
+931,Two-wheeler Tyres Cruiser,Two-wheeler,Echo Motors Ltd ,Medium,April,West,18,111.86,115.28
+932,Two-wheeler Tyres Cruiser,Two-wheeler, Echo Motors Ltd ,Medium,April,South,75,104.25,420.86
+933,Two-wheeler Tyres Cruiser,Two-wheeler,foxtrot auto ltd,Small,April,West,87,92.74,473.51
+934,Two-wheeler Tyres Cruiser,Two-wheeler,foxtrot auto ltd,Small,April,Central,90,139.04,748.49
+935,Two-wheeler Tyres Cruiser,Two-wheeler, FOXTROT AUTO LTD ,Small,April,East,17,99.99,88.65
+936,Two-wheeler Tyres Cruiser,Two-wheeler, FOXTROT AUTO LTD ,Small,April,North,46,148.82,389.34
+937,Two-wheeler Tyres Cruiser,Two-wheeler, golf motor company ,Small,April,North,53,105.95,333.31
+938,Two-wheeler Tyres Cruiser,Two-wheeler,Golf Motor Company ,Small,April,South,43,134.66,311.92
+939,Two-wheeler Tyres Cruiser,Two-wheeler,golf motor company ,Small,April,Central,42,133.0,292.4
+940,Two-wheeler Tyres Cruiser,Two-wheeler,GOLF MOTOR COMPANY,Small,April,Central,92,140.36,687.92
+941,Two-wheeler Tyres Cruiser,Two-wheeler,hotel wheels inc ,Medium,April,North,24,148.95,213.1
+942,Two-wheeler Tyres Cruiser,Two-wheeler,Hotel Wheels Inc,Medium,April,South,83,143.28,602.12
+943,Two-wheeler Tyres Cruiser,Two-wheeler,HOTEL WHEELS INC ,Medium,April,South,46,105.59,285.54
+944,Two-wheeler Tyres Cruiser,Two-wheeler,hotel wheels inc,Medium,April,Central,95,114.81,590.14
+945,Two-wheeler Tyres Cruiser,Two-wheeler, INDIA TYRES CO ,Medium,April,East,68,137.81,527.3
+946,Two-wheeler Tyres Cruiser,Two-wheeler,india tyres co ,Medium,April,South,73,114.73,490.72
+947,Two-wheeler Tyres Cruiser,Two-wheeler,India Tyres Co ,Medium,April,Central,85,108.7,544.24
+948,Two-wheeler Tyres Cruiser,Two-wheeler, INDIA TYRES CO,Medium,April,South,82,129.67,630.43
+949,Two-wheeler Tyres Cruiser,Two-wheeler, Juliet Automotive Pvt Ltd ,Small,April,North,18,136.99,137.37
+950,Car Tyres Rapid,Car, ALPHA MOTORS PVT LTD ,Big,May,West,25,134.27,168.67
+951,Car Tyres Rapid,Car,ALPHA MOTORS PVT LTD ,Big,May,Central,50,189.63,541.42
+952,Car Tyres Rapid,Car, BRAVO AUTO CORP,Medium,May,South,24,176.14,214.74
+953,Car Tyres Rapid,Car, Bravo Auto Corp ,Medium,May,West,67,154.96,534.18
+954,Car Tyres Rapid,Car, bravo auto corp,Medium,May,East,64,155.44,588.48
+955,Car Tyres Rapid,Car, CHARLIE TRANSPORT LTD ,Big,May,South,11,149.85,88.55
+956,Car Tyres Rapid,Car,DELTA VEHICLES PVT LTD ,Big,May,West,78,122.89,530.37
+957,Car Tyres Rapid,Car,Delta Vehicles Pvt Ltd,Big,May,East,23,139.05,188.78
+958,Car Tyres Rapid,Car, delta vehicles pvt ltd,Big,May,West,27,121.39,178.37
+959,Car Tyres Rapid,Car, DELTA VEHICLES PVT LTD ,Big,May,West,78,160.7,716.69
+960,Car Tyres Rapid,Car,ECHO MOTORS LTD ,Medium,May,North,63,162.22,511.7
+961,Car Tyres Rapid,Car, ECHO MOTORS LTD,Medium,May,Central,72,141.59,565.89
+962,Car Tyres Rapid,Car, Echo Motors Ltd ,Medium,May,East,39,125.08,270.2
+963,Car Tyres Rapid,Car, ECHO MOTORS LTD,Medium,May,East,52,178.65,551.61
+964,Car Tyres Rapid,Car,ECHO MOTORS LTD,Medium,May,South,86,188.31,934.21
+965,Car Tyres Rapid,Car, foxtrot auto ltd ,Small,May,North,53,178.54,511.84
+966,Car Tyres Rapid,Car, FOXTROT AUTO LTD,Small,May,East,28,197.4,295.25
+967,Car Tyres Rapid,Car,FOXTROT AUTO LTD ,Small,May,Central,20,149.3,176.64
+968,Car Tyres Rapid,Car,foxtrot auto ltd ,Small,May,North,72,181.31,738.86
+969,Car Tyres Rapid,Car, foxtrot auto ltd,Small,May,Central,16,152.07,134.31
+970,Car Tyres Rapid,Car,Golf Motor Company ,Small,May,North,53,120.81,328.16
+971,Car Tyres Rapid,Car, hotel wheels inc,Medium,May,West,29,127.21,209.76
+972,Car Tyres Rapid,Car, Hotel Wheels Inc ,Medium,May,Central,60,120.31,397.14
+973,Car Tyres Rapid,Car, HOTEL WHEELS INC ,Medium,May,East,17,198.62,184.78
+974,Car Tyres Rapid,Car,HOTEL WHEELS INC ,Medium,May,East,69,106.94,379.39
+975,Car Tyres Rapid,Car, Hotel Wheels Inc,Medium,May,West,85,152.12,691.34
+976,Car Tyres Rapid,Car,india tyres co,Medium,May,West,16,198.67,183.91
+977,Car Tyres Rapid,Car, INDIA TYRES CO,Medium,May,South,63,189.03,666.86
+978,Car Tyres Rapid,Car,INDIA TYRES CO ,Medium,May,South,56,175.05,543.4
+979,Car Tyres Rapid,Car, India Tyres Co,Medium,May,North,11,149.3,94.58
+980,Car Tyres Rapid,Car, india tyres co,Medium,May,Central,56,141.33,460.03
+981,Car Tyres Rapid,Car, JULIET AUTOMOTIVE PVT LTD,Small,May,South,63,132.87,445.18
+982,Car Tyres Rapid,Car, Juliet Automotive Pvt Ltd,Small,May,East,62,153.96,556.06
+983,Car Tyres Rapid,Car,Juliet Automotive Pvt Ltd ,Small,May,Central,13,121.29,87.1
+984,Car Tyres Rapid,Car,juliet automotive pvt ltd,Small,May,East,37,130.71,249.52
+985,Car Tyres Rapid,Car,Juliet Automotive Pvt Ltd,Small,May,South,40,178.17,398.95
+986,Car Tyres Gripper,Car, Alpha Motors Pvt Ltd,Big,May,North,72,169.67,688.91
+987,Car Tyres Gripper,Car, alpha motors pvt ltd ,Big,May,South,12,173.14,122.95
+988,Car Tyres Gripper,Car,Alpha Motors Pvt Ltd,Big,May,South,34,111.56,193.82
+989,Car Tyres Gripper,Car, Alpha Motors Pvt Ltd,Big,May,Central,15,153.01,120.25
+990,Car Tyres Gripper,Car, ALPHA MOTORS PVT LTD,Big,May,East,70,120.02,431.37
+991,Car Tyres Gripper,Car, bravo auto corp ,Medium,May,East,21,143.55,151.19
+992,Car Tyres Gripper,Car, Bravo Auto Corp ,Medium,May,Central,70,165.12,615.46
+993,Car Tyres Gripper,Car,CHARLIE TRANSPORT LTD,Big,May,Central,58,125.25,389.6
+994,Car Tyres Gripper,Car,CHARLIE TRANSPORT LTD,Big,May,Central,24,103.21,147.35
+995,Car Tyres Gripper,Car, CHARLIE TRANSPORT LTD,Big,May,South,55,191.86,599.16
+996,Car Tyres Gripper,Car, CHARLIE TRANSPORT LTD,Big,May,Central,73,154.75,665.48
+997,Car Tyres Gripper,Car,CHARLIE TRANSPORT LTD,Big,May,East,77,169.37,780.78
+998,Car Tyres Gripper,Car,DELTA VEHICLES PVT LTD ,Big,May,West,36,160.67,321.18
+999,Car Tyres Gripper,Car, delta vehicles pvt ltd ,Big,May,Central,56,156.24,503.89
+1000,Car Tyres Gripper,Car,delta vehicles pvt ltd,Big,May,Central,15,137.78,121.68
+1001,Car Tyres Gripper,Car,DELTA VEHICLES PVT LTD,Big,May,South,69,173.71,636.64
+1002,Car Tyres Gripper,Car, delta vehicles pvt ltd,Big,May,West,69,190.74,670.75
+1003,Car Tyres Gripper,Car,ECHO MOTORS LTD ,Medium,May,West,28,128.88,180.79
+1004,Car Tyres Gripper,Car,ECHO MOTORS LTD,Medium,May,Central,80,196.9,802.18
+1005,Car Tyres Gripper,Car, ECHO MOTORS LTD,Medium,May,North,85,167.97,853.77
+1006,Car Tyres Gripper,Car,foxtrot auto ltd ,Small,May,West,30,185.13,299.4
+1007,Car Tyres Gripper,Car, golf motor company ,Small,May,Central,19,146.62,156.41
+1008,Car Tyres Gripper,Car,Golf Motor Company ,Small,May,West,25,139.7,181.27
+1009,Car Tyres Gripper,Car,golf motor company ,Small,May,South,95,129.01,717.95
+1010,Car Tyres Gripper,Car, HOTEL WHEELS INC ,Medium,May,West,33,153.92,269.23
+1011,Car Tyres Gripper,Car,hotel wheels inc,Medium,May,West,37,139.83,264.16
+1012,Car Tyres Gripper,Car,hotel wheels inc ,Medium,May,Central,66,142.22,486.92
+1013,Car Tyres Gripper,Car, india tyres co,Medium,May,North,10,153.36,91.51
+1014,Car Tyres Gripper,Car, India Tyres Co ,Medium,May,East,69,153.74,622.43
+1015,Car Tyres Gripper,Car, India Tyres Co ,Medium,May,South,41,154.03,341.75
+1016,Car Tyres Gripper,Car, juliet automotive pvt ltd ,Small,May,South,81,137.58,573.95
+1017,Car Tyres Gripper,Car,JULIET AUTOMOTIVE PVT LTD ,Small,May,East,64,101.37,377.27
+1018,Car Tyres Gripper,Car,juliet automotive pvt ltd,Small,May,West,19,100.52,111.01
+1019,Car Tyres Gripper,Car, juliet automotive pvt ltd,Small,May,South,79,150.44,696.41
+1020,Car Tyres Gripper,Car, JULIET AUTOMOTIVE PVT LTD,Small,May,West,32,109.01,194.78
+1021,Truck Tyres HeavyDuty,Truck,alpha motors pvt ltd,Big,May,East,51,387.24,1279.05
+1022,Truck Tyres HeavyDuty,Truck,Alpha Motors Pvt Ltd ,Big,May,East,71,364.29,1672.83
+1023,Truck Tyres HeavyDuty,Truck,Alpha Motors Pvt Ltd,Big,May,West,14,232.55,208.52
+1024,Truck Tyres HeavyDuty,Truck, alpha motors pvt ltd,Big,May,North,55,325.2,1222.75
+1025,Truck Tyres HeavyDuty,Truck, BRAVO AUTO CORP,Medium,May,West,38,293.9,736.71
+1026,Truck Tyres HeavyDuty,Truck, CHARLIE TRANSPORT LTD ,Big,May,South,30,329.02,626.52
+1027,Truck Tyres HeavyDuty,Truck,CHARLIE TRANSPORT LTD,Big,May,East,67,285.57,1189.79
+1028,Truck Tyres HeavyDuty,Truck, CHARLIE TRANSPORT LTD ,Big,May,West,78,276.07,1504.47
+1029,Truck Tyres HeavyDuty,Truck, Delta Vehicles Pvt Ltd ,Big,May,East,16,216.07,234.61
+1030,Truck Tyres HeavyDuty,Truck,Delta Vehicles Pvt Ltd ,Big,May,East,36,370.51,899.75
+1031,Truck Tyres HeavyDuty,Truck, DELTA VEHICLES PVT LTD ,Big,May,Central,58,340.61,1220.17
+1032,Truck Tyres HeavyDuty,Truck, Echo Motors Ltd ,Medium,May,North,86,356.39,2017.72
+1033,Truck Tyres HeavyDuty,Truck,Echo Motors Ltd ,Medium,May,Central,72,314.7,1431.93
+1034,Truck Tyres HeavyDuty,Truck,echo motors ltd ,Medium,May,West,47,352.53,1013.57
+1035,Truck Tyres HeavyDuty,Truck, Foxtrot Auto Ltd ,Small,May,North,58,217.47,830.19
+1036,Truck Tyres HeavyDuty,Truck, Foxtrot Auto Ltd,Small,May,East,61,203.5,845.3
+1037,Truck Tyres HeavyDuty,Truck, Foxtrot Auto Ltd,Small,May,Central,24,262.42,420.6
+1038,Truck Tyres HeavyDuty,Truck, Golf Motor Company ,Small,May,South,67,297.82,1349.43
+1039,Truck Tyres HeavyDuty,Truck,golf motor company,Small,May,Central,65,289.18,1276.14
+1040,Truck Tyres HeavyDuty,Truck,golf motor company,Small,May,West,73,293.95,1479.22
+1041,Truck Tyres HeavyDuty,Truck,GOLF MOTOR COMPANY,Small,May,South,78,271.99,1405.8
+1042,Truck Tyres HeavyDuty,Truck, hotel wheels inc,Medium,May,South,25,331.21,548.35
+1043,Truck Tyres HeavyDuty,Truck,HOTEL WHEELS INC,Medium,May,North,66,295.21,1291.46
+1044,Truck Tyres HeavyDuty,Truck,hotel wheels inc,Medium,May,East,22,325.86,446.27
+1045,Truck Tyres HeavyDuty,Truck, Hotel Wheels Inc ,Medium,May,Central,61,370.5,1529.98
+1046,Truck Tyres HeavyDuty,Truck, hotel wheels inc ,Medium,May,South,26,250.43,430.02
+1047,Truck Tyres HeavyDuty,Truck, India Tyres Co ,Medium,May,East,35,241.99,571.72
+1048,Truck Tyres HeavyDuty,Truck, india tyres co,Medium,May,North,66,328.9,1396.01
+1049,Truck Tyres HeavyDuty,Truck,India Tyres Co,Medium,May,South,23,207.83,304.86
+1050,Truck Tyres HeavyDuty,Truck,INDIA TYRES CO,Medium,May,Central,46,381.77,1084.02
+1051,Truck Tyres HeavyDuty,Truck, juliet automotive pvt ltd ,Small,May,East,15,326.35,311.13
+1052,Truck Tyres LongHaul,Truck,Alpha Motors Pvt Ltd,Big,May,South,56,397.93,1468.04
+1053,Truck Tyres LongHaul,Truck,Alpha Motors Pvt Ltd,Big,May,Central,25,303.22,483.61
+1054,Truck Tyres LongHaul,Truck,bravo auto corp ,Medium,May,Central,59,271.16,1083.44
+1055,Truck Tyres LongHaul,Truck, bravo auto corp,Medium,May,North,94,214.18,1289.42
+1056,Truck Tyres LongHaul,Truck,Bravo Auto Corp ,Medium,May,West,76,343.52,1697.25
+1057,Truck Tyres LongHaul,Truck,Bravo Auto Corp ,Medium,May,North,16,385.34,377.4
+1058,Truck Tyres LongHaul,Truck,BRAVO AUTO CORP ,Medium,May,South,32,280.38,600.95
+1059,Truck Tyres LongHaul,Truck,charlie transport ltd,Big,May,East,92,261.55,1633.0
+1060,Truck Tyres LongHaul,Truck, Charlie Transport Ltd ,Big,May,North,43,383.02,989.45
+1061,Truck Tyres LongHaul,Truck,charlie transport ltd ,Big,May,West,44,226.34,652.63
+1062,Truck Tyres LongHaul,Truck,CHARLIE TRANSPORT LTD,Big,May,South,90,287.93,1572.52
+1063,Truck Tyres LongHaul,Truck,charlie transport ltd ,Big,May,North,81,267.48,1497.45
+1064,Truck Tyres LongHaul,Truck,delta vehicles pvt ltd ,Big,May,South,13,269.69,238.38
+1065,Truck Tyres LongHaul,Truck,Echo Motors Ltd ,Medium,May,North,99,399.81,2649.47
+1066,Truck Tyres LongHaul,Truck,ECHO MOTORS LTD,Medium,May,North,43,231.07,616.86
+1067,Truck Tyres LongHaul,Truck,echo motors ltd ,Medium,May,Central,44,203.64,613.73
+1068,Truck Tyres LongHaul,Truck,Echo Motors Ltd,Medium,May,North,63,312.71,1242.0
+1069,Truck Tyres LongHaul,Truck,FOXTROT AUTO LTD ,Small,May,South,10,267.5,183.8
+1070,Truck Tyres LongHaul,Truck,foxtrot auto ltd ,Small,May,Central,47,298.05,847.17
+1071,Truck Tyres LongHaul,Truck, Golf Motor Company ,Small,May,West,86,291.83,1599.97
+1072,Truck Tyres LongHaul,Truck, GOLF MOTOR COMPANY,Small,May,East,84,337.84,1729.79
+1073,Truck Tyres LongHaul,Truck,Golf Motor Company,Small,May,North,67,316.28,1374.37
+1074,Truck Tyres LongHaul,Truck, Hotel Wheels Inc ,Medium,May,East,42,342.48,995.6
+1075,Truck Tyres LongHaul,Truck,India Tyres Co,Medium,May,West,94,319.52,1808.7
+1076,Truck Tyres LongHaul,Truck,india tyres co,Medium,May,Central,15,272.75,258.54
+1077,Truck Tyres LongHaul,Truck,INDIA TYRES CO ,Medium,May,Central,61,370.71,1357.56
+1078,Truck Tyres LongHaul,Truck, India Tyres Co,Medium,May,East,91,320.96,1829.68
+1079,Truck Tyres LongHaul,Truck,juliet automotive pvt ltd,Small,May,North,12,382.33,302.98
+1080,Truck Tyres LongHaul,Truck,Juliet Automotive Pvt Ltd,Small,May,Central,47,359.85,1111.89
+1081,Truck Tyres LongHaul,Truck,JULIET AUTOMOTIVE PVT LTD,Small,May,West,66,256.45,1087.65
+1082,Cycle Tyres Speedster,Cycle, alpha motors pvt ltd ,Big,May,Central,52,50.51,181.11
+1083,Cycle Tyres Speedster,Cycle, bravo auto corp,Medium,May,North,72,89.69,409.52
+1084,Cycle Tyres Speedster,Cycle,bravo auto corp,Medium,May,North,68,91.89,329.69
+1085,Cycle Tyres Speedster,Cycle,bravo auto corp ,Medium,May,South,64,85.87,344.85
+1086,Cycle Tyres Speedster,Cycle,charlie transport ltd ,Big,May,Central,58,64.95,188.99
+1087,Cycle Tyres Speedster,Cycle, CHARLIE TRANSPORT LTD ,Big,May,East,53,75.31,231.02
+1088,Cycle Tyres Speedster,Cycle, delta vehicles pvt ltd ,Big,May,South,48,65.62,162.92
+1089,Cycle Tyres Speedster,Cycle, Echo Motors Ltd ,Medium,May,West,100,88.49,520.33
+1090,Cycle Tyres Speedster,Cycle, Foxtrot Auto Ltd ,Small,May,West,94,53.47,301.49
+1091,Cycle Tyres Speedster,Cycle, foxtrot auto ltd,Small,May,East,24,81.57,112.26
+1092,Cycle Tyres Speedster,Cycle,GOLF MOTOR COMPANY ,Small,May,West,49,75.89,190.73
+1093,Cycle Tyres Speedster,Cycle,golf motor company ,Small,May,North,64,79.82,326.77
+1094,Cycle Tyres Speedster,Cycle, HOTEL WHEELS INC ,Medium,May,North,85,83.42,425.65
+1095,Cycle Tyres Speedster,Cycle, Hotel Wheels Inc ,Medium,May,North,67,53.31,219.03
+1096,Cycle Tyres Speedster,Cycle,india tyres co,Medium,May,Central,49,68.3,226.04
+1097,Cycle Tyres Speedster,Cycle,India Tyres Co ,Medium,May,Central,90,93.38,467.22
+1098,Cycle Tyres Speedster,Cycle,INDIA TYRES CO,Medium,May,East,88,70.73,419.36
+1099,Cycle Tyres Speedster,Cycle, INDIA TYRES CO,Medium,May,Central,20,79.97,88.43
+1100,Cycle Tyres Speedster,Cycle, Juliet Automotive Pvt Ltd ,Small,May,North,36,79.49,150.88
+1101,Cycle Tyres Rider,Cycle,ALPHA MOTORS PVT LTD ,Big,May,East,19,70.52,76.81
+1102,Cycle Tyres Rider,Cycle, ALPHA MOTORS PVT LTD ,Big,May,North,37,75.56,149.29
+1103,Cycle Tyres Rider,Cycle, Alpha Motors Pvt Ltd ,Big,May,South,19,75.54,99.61
+1104,Cycle Tyres Rider,Cycle,Alpha Motors Pvt Ltd ,Big,May,East,92,67.75,381.14
+1105,Cycle Tyres Rider,Cycle, ALPHA MOTORS PVT LTD,Big,May,South,93,66.45,323.23
+1106,Cycle Tyres Rider,Cycle,BRAVO AUTO CORP,Medium,May,East,53,74.93,266.62
+1107,Cycle Tyres Rider,Cycle, bravo auto corp ,Medium,May,South,48,68.44,185.34
+1108,Cycle Tyres Rider,Cycle,bravo auto corp,Medium,May,North,63,72.33,229.48
+1109,Cycle Tyres Rider,Cycle, CHARLIE TRANSPORT LTD,Big,May,East,42,97.05,216.27
+1110,Cycle Tyres Rider,Cycle, charlie transport ltd,Big,May,South,80,68.81,335.99
+1111,Cycle Tyres Rider,Cycle,Charlie Transport Ltd ,Big,May,North,39,70.05,181.99
+1112,Cycle Tyres Rider,Cycle, delta vehicles pvt ltd,Big,May,Central,62,83.21,270.73
+1113,Cycle Tyres Rider,Cycle, ECHO MOTORS LTD ,Medium,May,Central,60,81.47,302.96
+1114,Cycle Tyres Rider,Cycle,ECHO MOTORS LTD ,Medium,May,West,35,83.59,161.15
+1115,Cycle Tyres Rider,Cycle,ECHO MOTORS LTD ,Medium,May,West,78,50.43,255.82
+1116,Cycle Tyres Rider,Cycle,Echo Motors Ltd ,Medium,May,East,71,99.66,492.49
+1117,Cycle Tyres Rider,Cycle,FOXTROT AUTO LTD ,Small,May,Central,13,50.05,43.47
+1118,Cycle Tyres Rider,Cycle,Golf Motor Company,Small,May,West,57,78.09,306.98
+1119,Cycle Tyres Rider,Cycle, Golf Motor Company ,Small,May,East,49,74.06,191.79
+1120,Cycle Tyres Rider,Cycle,golf motor company,Small,May,Central,40,53.84,139.38
+1121,Cycle Tyres Rider,Cycle,Golf Motor Company ,Small,May,North,45,88.22,212.57
+1122,Cycle Tyres Rider,Cycle,GOLF MOTOR COMPANY ,Small,May,North,94,53.24,275.34
+1123,Cycle Tyres Rider,Cycle, hotel wheels inc,Medium,May,West,41,51.64,119.57
+1124,Cycle Tyres Rider,Cycle,Hotel Wheels Inc ,Medium,May,North,66,52.26,177.23
+1125,Cycle Tyres Rider,Cycle,hotel wheels inc,Medium,May,West,86,65.41,287.14
+1126,Cycle Tyres Rider,Cycle, india tyres co ,Medium,May,South,63,88.81,327.67
+1127,Cycle Tyres Rider,Cycle, India Tyres Co,Medium,May,West,13,78.05,57.65
+1128,Cycle Tyres Rider,Cycle, INDIA TYRES CO ,Medium,May,North,95,87.14,490.5
+1129,Cycle Tyres Rider,Cycle, India Tyres Co,Medium,May,West,70,95.34,356.47
+1130,Cycle Tyres Rider,Cycle,Juliet Automotive Pvt Ltd ,Small,May,West,49,62.27,193.32
+1131,Cycle Tyres Rider,Cycle,Juliet Automotive Pvt Ltd ,Small,May,West,87,74.67,411.94
+1132,Cycle Tyres Rider,Cycle, JULIET AUTOMOTIVE PVT LTD ,Small,May,North,71,61.43,294.23
+1133,Two-wheeler Tyres Swift,Two-wheeler, alpha motors pvt ltd ,Big,May,North,100,131.56,719.64
+1134,Two-wheeler Tyres Swift,Two-wheeler, ALPHA MOTORS PVT LTD,Big,May,South,59,85.41,293.22
+1135,Two-wheeler Tyres Swift,Two-wheeler,alpha motors pvt ltd,Big,May,South,76,141.5,542.18
+1136,Two-wheeler Tyres Swift,Two-wheeler,Bravo Auto Corp ,Medium,May,East,31,133.07,242.1
+1137,Two-wheeler Tyres Swift,Two-wheeler,bravo auto corp,Medium,May,South,64,102.65,357.9
+1138,Two-wheeler Tyres Swift,Two-wheeler, bravo auto corp,Medium,May,West,54,142.74,420.24
+1139,Two-wheeler Tyres Swift,Two-wheeler,Charlie Transport Ltd,Big,May,Central,88,105.38,480.2
+1140,Two-wheeler Tyres Swift,Two-wheeler, CHARLIE TRANSPORT LTD ,Big,May,West,35,101.39,211.88
+1141,Two-wheeler Tyres Swift,Two-wheeler, Charlie Transport Ltd,Big,May,West,33,108.63,181.79
+1142,Two-wheeler Tyres Swift,Two-wheeler,CHARLIE TRANSPORT LTD,Big,May,Central,15,140.42,121.46
+1143,Two-wheeler Tyres Swift,Two-wheeler, Charlie Transport Ltd ,Big,May,West,70,96.75,346.5
+1144,Two-wheeler Tyres Swift,Two-wheeler, Delta Vehicles Pvt Ltd,Big,May,East,87,140.48,635.68
+1145,Two-wheeler Tyres Swift,Two-wheeler,DELTA VEHICLES PVT LTD,Big,May,East,35,102.51,181.53
+1146,Two-wheeler Tyres Swift,Two-wheeler, delta vehicles pvt ltd ,Big,May,East,59,91.6,314.12
+1147,Two-wheeler Tyres Swift,Two-wheeler,Delta Vehicles Pvt Ltd,Big,May,East,26,148.04,201.23
+1148,Two-wheeler Tyres Swift,Two-wheeler, ECHO MOTORS LTD,Medium,May,East,56,93.24,309.75
+1149,Two-wheeler Tyres Swift,Two-wheeler, ECHO MOTORS LTD,Medium,May,Central,24,101.07,133.32
+1150,Two-wheeler Tyres Swift,Two-wheeler,echo motors ltd ,Medium,May,North,86,120.86,559.89
+1151,Two-wheeler Tyres Swift,Two-wheeler, Echo Motors Ltd ,Medium,May,North,45,112.2,282.49
+1152,Two-wheeler Tyres Swift,Two-wheeler, Echo Motors Ltd ,Medium,May,West,69,94.44,373.87
+1153,Two-wheeler Tyres Swift,Two-wheeler,Foxtrot Auto Ltd ,Small,May,West,72,127.5,521.79
+1154,Two-wheeler Tyres Swift,Two-wheeler,foxtrot auto ltd,Small,May,West,98,103.0,566.93
+1155,Two-wheeler Tyres Swift,Two-wheeler,Foxtrot Auto Ltd,Small,May,Central,35,122.11,231.01
+1156,Two-wheeler Tyres Swift,Two-wheeler,Foxtrot Auto Ltd,Small,May,South,52,104.44,291.82
+1157,Two-wheeler Tyres Swift,Two-wheeler, GOLF MOTOR COMPANY,Small,May,South,98,97.27,523.53
+1158,Two-wheeler Tyres Swift,Two-wheeler,golf motor company ,Small,May,North,45,127.95,314.98
+1159,Two-wheeler Tyres Swift,Two-wheeler,Hotel Wheels Inc ,Medium,May,Central,84,135.69,635.94
+1160,Two-wheeler Tyres Swift,Two-wheeler,HOTEL WHEELS INC,Medium,May,North,45,109.0,285.39
+1161,Two-wheeler Tyres Swift,Two-wheeler,INDIA TYRES CO,Medium,May,East,48,115.25,329.56
+1162,Two-wheeler Tyres Swift,Two-wheeler,india tyres co,Medium,May,South,97,94.86,529.17
+1163,Two-wheeler Tyres Swift,Two-wheeler, JULIET AUTOMOTIVE PVT LTD ,Small,May,West,10,145.77,80.85
+1164,Two-wheeler Tyres Swift,Two-wheeler,juliet automotive pvt ltd ,Small,May,North,47,141.57,334.75
+1165,Two-wheeler Tyres Swift,Two-wheeler, JULIET AUTOMOTIVE PVT LTD ,Small,May,North,57,112.64,346.51
+1166,Two-wheeler Tyres Swift,Two-wheeler,juliet automotive pvt ltd ,Small,May,North,26,124.35,188.04
+1167,Two-wheeler Tyres Swift,Two-wheeler, Juliet Automotive Pvt Ltd,Small,May,West,100,91.36,460.08
+1168,Two-wheeler Tyres Cruiser,Two-wheeler,alpha motors pvt ltd ,Big,May,West,28,115.51,191.46
+1169,Two-wheeler Tyres Cruiser,Two-wheeler, ALPHA MOTORS PVT LTD,Big,May,Central,71,110.56,433.82
+1170,Two-wheeler Tyres Cruiser,Two-wheeler,ALPHA MOTORS PVT LTD,Big,May,North,22,99.78,131.39
+1171,Two-wheeler Tyres Cruiser,Two-wheeler, Bravo Auto Corp,Medium,May,Central,92,118.77,640.22
+1172,Two-wheeler Tyres Cruiser,Two-wheeler,BRAVO AUTO CORP ,Medium,May,North,56,118.21,379.03
+1173,Two-wheeler Tyres Cruiser,Two-wheeler,BRAVO AUTO CORP ,Medium,May,Central,83,98.35,453.32
+1174,Two-wheeler Tyres Cruiser,Two-wheeler, bravo auto corp,Medium,May,East,35,100.47,194.4
+1175,Two-wheeler Tyres Cruiser,Two-wheeler, Bravo Auto Corp,Medium,May,West,86,98.89,502.56
+1176,Two-wheeler Tyres Cruiser,Two-wheeler,CHARLIE TRANSPORT LTD ,Big,May,Central,89,113.68,605.35
+1177,Two-wheeler Tyres Cruiser,Two-wheeler,Charlie Transport Ltd ,Big,May,North,69,91.01,319.66
+1178,Two-wheeler Tyres Cruiser,Two-wheeler, Charlie Transport Ltd ,Big,May,North,90,86.84,413.77
+1179,Two-wheeler Tyres Cruiser,Two-wheeler, delta vehicles pvt ltd ,Big,May,West,86,82.95,420.42
+1180,Two-wheeler Tyres Cruiser,Two-wheeler, delta vehicles pvt ltd,Big,May,South,81,148.83,716.71
+1181,Two-wheeler Tyres Cruiser,Two-wheeler,delta vehicles pvt ltd,Big,May,North,55,116.41,343.51
+1182,Two-wheeler Tyres Cruiser,Two-wheeler, Delta Vehicles Pvt Ltd,Big,May,West,57,83.12,281.1
+1183,Two-wheeler Tyres Cruiser,Two-wheeler, ECHO MOTORS LTD ,Medium,May,North,61,109.26,362.4
+1184,Two-wheeler Tyres Cruiser,Two-wheeler, ECHO MOTORS LTD ,Medium,May,North,25,94.52,124.33
+1185,Two-wheeler Tyres Cruiser,Two-wheeler, ECHO MOTORS LTD,Medium,May,East,62,133.45,435.18
+1186,Two-wheeler Tyres Cruiser,Two-wheeler, Foxtrot Auto Ltd,Small,May,East,56,114.16,360.17
+1187,Two-wheeler Tyres Cruiser,Two-wheeler, foxtrot auto ltd,Small,May,South,25,109.55,147.91
+1188,Two-wheeler Tyres Cruiser,Two-wheeler,Foxtrot Auto Ltd,Small,May,South,90,88.53,410.82
+1189,Two-wheeler Tyres Cruiser,Two-wheeler, FOXTROT AUTO LTD ,Small,May,South,87,90.54,422.33
+1190,Two-wheeler Tyres Cruiser,Two-wheeler, Foxtrot Auto Ltd,Small,May,West,62,86.42,278.48
+1191,Two-wheeler Tyres Cruiser,Two-wheeler,Golf Motor Company,Small,May,North,55,95.25,312.87
+1192,Two-wheeler Tyres Cruiser,Two-wheeler, golf motor company,Small,May,North,26,126.72,166.67
+1193,Two-wheeler Tyres Cruiser,Two-wheeler,golf motor company,Small,May,North,93,134.75,727.07
+1194,Two-wheeler Tyres Cruiser,Two-wheeler,golf motor company,Small,May,West,55,129.28,359.53
+1195,Two-wheeler Tyres Cruiser,Two-wheeler, GOLF MOTOR COMPANY,Small,May,East,32,106.72,184.82
+1196,Two-wheeler Tyres Cruiser,Two-wheeler,hotel wheels inc ,Medium,May,East,25,133.59,188.62
+1197,Two-wheeler Tyres Cruiser,Two-wheeler, HOTEL WHEELS INC,Medium,May,Central,72,125.29,528.97
+1198,Two-wheeler Tyres Cruiser,Two-wheeler, Hotel Wheels Inc ,Medium,May,South,69,149.92,541.73
+1199,Two-wheeler Tyres Cruiser,Two-wheeler, hotel wheels inc ,Medium,May,Central,96,125.78,719.6
+1200,Two-wheeler Tyres Cruiser,Two-wheeler, INDIA TYRES CO ,Medium,May,West,74,136.38,509.18
+1201,Two-wheeler Tyres Cruiser,Two-wheeler, India Tyres Co ,Medium,May,South,10,125.74,71.94
+1202,Two-wheeler Tyres Cruiser,Two-wheeler,INDIA TYRES CO ,Medium,May,West,44,82.84,208.42
+1203,Two-wheeler Tyres Cruiser,Two-wheeler,India Tyres Co ,Medium,May,South,99,81.28,478.53
+1204,Two-wheeler Tyres Cruiser,Two-wheeler, JULIET AUTOMOTIVE PVT LTD ,Small,May,North,68,142.22,554.86
+1205,Two-wheeler Tyres Cruiser,Two-wheeler,JULIET AUTOMOTIVE PVT LTD,Small,May,West,40,121.8,243.92
+1206,Two-wheeler Tyres Cruiser,Two-wheeler, JULIET AUTOMOTIVE PVT LTD,Small,May,West,73,86.98,357.99
+1207,Two-wheeler Tyres Cruiser,Two-wheeler, Juliet Automotive Pvt Ltd,Small,May,West,23,94.61,113.53
+1208,Car Tyres Rapid,Car,Alpha Motors Pvt Ltd,Big,June,North,29,156.75,241.62
+1209,Car Tyres Rapid,Car, alpha motors pvt ltd,Big,June,North,34,145.31,259.52
+1210,Car Tyres Rapid,Car,Bravo Auto Corp,Medium,June,East,63,130.43,451.77
+1211,Car Tyres Rapid,Car,BRAVO AUTO CORP ,Medium,June,South,87,125.08,557.88
+1212,Car Tyres Rapid,Car, Bravo Auto Corp,Medium,June,East,22,106.09,127.32
+1213,Car Tyres Rapid,Car,bravo auto corp,Medium,June,North,45,134.99,355.17
+1214,Car Tyres Rapid,Car,Charlie Transport Ltd,Big,June,Central,91,149.34,705.69
+1215,Car Tyres Rapid,Car, CHARLIE TRANSPORT LTD,Big,June,West,54,125.54,402.57
+1216,Car Tyres Rapid,Car, Charlie Transport Ltd ,Big,June,North,84,110.01,519.95
+1217,Car Tyres Rapid,Car,Delta Vehicles Pvt Ltd ,Big,June,East,45,129.24,293.25
+1218,Car Tyres Rapid,Car, DELTA VEHICLES PVT LTD ,Big,June,North,88,139.92,640.52
+1219,Car Tyres Rapid,Car, Echo Motors Ltd,Medium,June,North,85,178.19,818.72
+1220,Car Tyres Rapid,Car,foxtrot auto ltd,Small,June,South,82,178.6,766.02
+1221,Car Tyres Rapid,Car, FOXTROT AUTO LTD,Small,June,East,70,117.18,448.44
+1222,Car Tyres Rapid,Car,FOXTROT AUTO LTD ,Small,June,South,64,125.3,426.57
+1223,Car Tyres Rapid,Car,GOLF MOTOR COMPANY ,Small,June,South,10,117.91,61.4
+1224,Car Tyres Rapid,Car,golf motor company ,Small,June,East,55,130.92,427.06
+1225,Car Tyres Rapid,Car,Golf Motor Company ,Small,June,North,41,128.55,274.32
+1226,Car Tyres Rapid,Car, hotel wheels inc ,Medium,June,North,51,168.28,483.94
+1227,Car Tyres Rapid,Car,HOTEL WHEELS INC ,Medium,June,East,74,111.13,421.27
+1228,Car Tyres Rapid,Car, hotel wheels inc ,Medium,June,East,37,121.15,232.95
+1229,Car Tyres Rapid,Car, INDIA TYRES CO,Medium,June,West,30,177.1,313.63
+1230,Car Tyres Rapid,Car,india tyres co,Medium,June,Central,33,151.77,255.36
+1231,Car Tyres Rapid,Car, Juliet Automotive Pvt Ltd ,Small,June,West,62,166.75,609.55
+1232,Car Tyres Rapid,Car,juliet automotive pvt ltd,Small,June,North,42,109.98,264.82
+1233,Car Tyres Gripper,Car, ALPHA MOTORS PVT LTD,Big,June,West,67,128.85,457.73
+1234,Car Tyres Gripper,Car, ALPHA MOTORS PVT LTD ,Big,June,North,93,129.79,646.67
+1235,Car Tyres Gripper,Car,Alpha Motors Pvt Ltd,Big,June,South,100,170.39,893.32
+1236,Car Tyres Gripper,Car, alpha motors pvt ltd ,Big,June,East,55,103.21,334.27
+1237,Car Tyres Gripper,Car, alpha motors pvt ltd ,Big,June,East,60,173.26,571.44
+1238,Car Tyres Gripper,Car, BRAVO AUTO CORP,Medium,June,North,31,180.36,291.33
+1239,Car Tyres Gripper,Car,Bravo Auto Corp ,Medium,June,East,72,168.83,693.69
+1240,Car Tyres Gripper,Car, bravo auto corp ,Medium,June,East,80,192.67,875.97
+1241,Car Tyres Gripper,Car, Charlie Transport Ltd,Big,June,South,43,184.04,441.94
+1242,Car Tyres Gripper,Car, Charlie Transport Ltd ,Big,June,Central,59,101.56,346.37
+1243,Car Tyres Gripper,Car, CHARLIE TRANSPORT LTD ,Big,June,North,29,110.89,163.01
+1244,Car Tyres Gripper,Car,charlie transport ltd ,Big,June,West,81,106.23,497.97
+1245,Car Tyres Gripper,Car,Charlie Transport Ltd ,Big,June,North,73,129.49,564.47
+1246,Car Tyres Gripper,Car, Delta Vehicles Pvt Ltd ,Big,June,South,65,147.95,548.69
+1247,Car Tyres Gripper,Car, Echo Motors Ltd ,Medium,June,North,14,178.02,128.79
+1248,Car Tyres Gripper,Car,Foxtrot Auto Ltd ,Small,June,West,68,154.39,589.02
+1249,Car Tyres Gripper,Car, golf motor company ,Small,June,West,18,176.73,167.91
+1250,Car Tyres Gripper,Car, GOLF MOTOR COMPANY ,Small,June,West,18,170.46,164.51
+1251,Car Tyres Gripper,Car,golf motor company,Small,June,East,54,127.76,377.61
+1252,Car Tyres Gripper,Car,GOLF MOTOR COMPANY,Small,June,West,82,184.75,904.88
+1253,Car Tyres Gripper,Car, GOLF MOTOR COMPANY,Small,June,West,51,185.21,519.79
+1254,Car Tyres Gripper,Car,HOTEL WHEELS INC ,Medium,June,West,66,151.1,502.21
+1255,Car Tyres Gripper,Car, HOTEL WHEELS INC,Medium,June,West,97,178.35,894.35
+1256,Car Tyres Gripper,Car, INDIA TYRES CO ,Medium,June,South,24,175.02,230.27
+1257,Car Tyres Gripper,Car,INDIA TYRES CO,Medium,June,West,36,154.92,318.73
+1258,Car Tyres Gripper,Car,India Tyres Co ,Medium,June,West,46,109.59,261.13
+1259,Car Tyres Gripper,Car, india tyres co,Medium,June,West,60,191.01,662.85
+1260,Car Tyres Gripper,Car,JULIET AUTOMOTIVE PVT LTD ,Small,June,East,43,118.69,280.22
+1261,Car Tyres Gripper,Car,JULIET AUTOMOTIVE PVT LTD ,Small,June,Central,61,153.94,509.94
+1262,Car Tyres Gripper,Car,Juliet Automotive Pvt Ltd,Small,June,Central,68,111.87,401.13
+1263,Car Tyres Gripper,Car,JULIET AUTOMOTIVE PVT LTD,Small,June,East,12,141.28,96.14
+1264,Car Tyres Gripper,Car, JULIET AUTOMOTIVE PVT LTD ,Small,June,North,73,103.52,406.33
+1265,Truck Tyres HeavyDuty,Truck, alpha motors pvt ltd,Big,June,South,55,286.01,979.74
+1266,Truck Tyres HeavyDuty,Truck,Bravo Auto Corp ,Medium,June,East,43,375.46,1037.66
+1267,Truck Tyres HeavyDuty,Truck,Charlie Transport Ltd ,Big,June,North,47,317.08,1024.44
+1268,Truck Tyres HeavyDuty,Truck, DELTA VEHICLES PVT LTD,Big,June,Central,24,371.31,620.27
+1269,Truck Tyres HeavyDuty,Truck,Delta Vehicles Pvt Ltd ,Big,June,Central,26,241.19,400.06
+1270,Truck Tyres HeavyDuty,Truck,Delta Vehicles Pvt Ltd ,Big,June,East,44,378.92,1014.32
+1271,Truck Tyres HeavyDuty,Truck, ECHO MOTORS LTD ,Medium,June,Central,68,205.33,858.79
+1272,Truck Tyres HeavyDuty,Truck,Echo Motors Ltd ,Medium,June,Central,90,227.95,1267.98
+1273,Truck Tyres HeavyDuty,Truck,ECHO MOTORS LTD ,Medium,June,West,33,285.2,631.45
+1274,Truck Tyres HeavyDuty,Truck, Foxtrot Auto Ltd,Small,June,Central,25,324.4,509.93
+1275,Truck Tyres HeavyDuty,Truck,Foxtrot Auto Ltd ,Small,June,East,29,377.28,701.03
+1276,Truck Tyres HeavyDuty,Truck, Foxtrot Auto Ltd ,Small,June,Central,84,250.9,1327.11
+1277,Truck Tyres HeavyDuty,Truck, GOLF MOTOR COMPANY ,Small,June,South,90,205.14,1141.45
+1278,Truck Tyres HeavyDuty,Truck, Golf Motor Company ,Small,June,North,65,255.9,1127.98
+1279,Truck Tyres HeavyDuty,Truck, golf motor company,Small,June,North,94,250.98,1519.39
+1280,Truck Tyres HeavyDuty,Truck,HOTEL WHEELS INC,Medium,June,East,59,308.87,1231.63
+1281,Truck Tyres HeavyDuty,Truck, HOTEL WHEELS INC,Medium,June,Central,53,346.92,1145.33
+1282,Truck Tyres HeavyDuty,Truck,HOTEL WHEELS INC,Medium,June,Central,44,378.09,1119.13
+1283,Truck Tyres HeavyDuty,Truck, hotel wheels inc ,Medium,June,Central,93,373.79,2326.0
+1284,Truck Tyres HeavyDuty,Truck,india tyres co ,Medium,June,South,84,385.71,2015.83
+1285,Truck Tyres HeavyDuty,Truck, JULIET AUTOMOTIVE PVT LTD ,Small,June,Central,76,264.67,1237.26
+1286,Truck Tyres HeavyDuty,Truck, juliet automotive pvt ltd,Small,June,South,93,398.5,2443.42
+1287,Truck Tyres HeavyDuty,Truck, juliet automotive pvt ltd,Small,June,West,51,203.92,707.52
+1288,Truck Tyres HeavyDuty,Truck, juliet automotive pvt ltd,Small,June,West,60,286.11,1131.51
+1289,Truck Tyres LongHaul,Truck,Alpha Motors Pvt Ltd ,Big,June,Central,18,336.42,363.34
+1290,Truck Tyres LongHaul,Truck,Alpha Motors Pvt Ltd,Big,June,Central,36,281.21,632.84
+1291,Truck Tyres LongHaul,Truck,alpha motors pvt ltd ,Big,June,South,52,287.12,1005.7
+1292,Truck Tyres LongHaul,Truck, bravo auto corp,Medium,June,West,40,292.17,720.61
+1293,Truck Tyres LongHaul,Truck, Bravo Auto Corp,Medium,June,Central,31,303.72,627.83
+1294,Truck Tyres LongHaul,Truck,Charlie Transport Ltd,Big,June,Central,28,321.68,580.76
+1295,Truck Tyres LongHaul,Truck,CHARLIE TRANSPORT LTD,Big,June,South,50,313.46,951.58
+1296,Truck Tyres LongHaul,Truck, CHARLIE TRANSPORT LTD ,Big,June,South,38,203.26,494.95
+1297,Truck Tyres LongHaul,Truck, CHARLIE TRANSPORT LTD ,Big,June,North,51,287.76,1022.82
+1298,Truck Tyres LongHaul,Truck,Delta Vehicles Pvt Ltd,Big,June,South,11,256.27,195.57
+1299,Truck Tyres LongHaul,Truck, Delta Vehicles Pvt Ltd,Big,June,East,30,263.84,488.91
+1300,Truck Tyres LongHaul,Truck, DELTA VEHICLES PVT LTD,Big,June,West,67,317.27,1398.07
+1301,Truck Tyres LongHaul,Truck,Delta Vehicles Pvt Ltd,Big,June,West,49,268.95,797.82
+1302,Truck Tyres LongHaul,Truck,Echo Motors Ltd ,Medium,June,North,16,367.93,384.55
+1303,Truck Tyres LongHaul,Truck, echo motors ltd,Medium,June,South,69,305.29,1462.83
+1304,Truck Tyres LongHaul,Truck, echo motors ltd ,Medium,June,North,29,221.16,424.38
+1305,Truck Tyres LongHaul,Truck, ECHO MOTORS LTD ,Medium,June,Central,68,270.97,1236.08
+1306,Truck Tyres LongHaul,Truck,echo motors ltd,Medium,June,South,50,245.01,766.94
+1307,Truck Tyres LongHaul,Truck,FOXTROT AUTO LTD ,Small,June,West,41,379.2,1002.78
+1308,Truck Tyres LongHaul,Truck,FOXTROT AUTO LTD ,Small,June,Central,44,387.96,1180.22
+1309,Truck Tyres LongHaul,Truck,foxtrot auto ltd ,Small,June,West,48,217.38,675.05
+1310,Truck Tyres LongHaul,Truck, Foxtrot Auto Ltd ,Small,June,North,11,314.73,215.31
+1311,Truck Tyres LongHaul,Truck,golf motor company,Small,June,Central,20,286.28,390.97
+1312,Truck Tyres LongHaul,Truck,GOLF MOTOR COMPANY ,Small,June,North,15,283.7,280.72
+1313,Truck Tyres LongHaul,Truck,GOLF MOTOR COMPANY ,Small,June,West,84,339.37,1753.42
+1314,Truck Tyres LongHaul,Truck, Golf Motor Company ,Small,June,Central,70,392.32,1817.61
+1315,Truck Tyres LongHaul,Truck,golf motor company ,Small,June,West,43,256.75,751.31
+1316,Truck Tyres LongHaul,Truck, HOTEL WHEELS INC,Medium,June,West,21,370.64,473.0
+1317,Truck Tyres LongHaul,Truck, Hotel Wheels Inc ,Medium,June,South,44,342.79,946.12
+1318,Truck Tyres LongHaul,Truck,india tyres co,Medium,June,East,65,238.97,1067.46
+1319,Truck Tyres LongHaul,Truck,india tyres co,Medium,June,West,50,372.36,1151.91
+1320,Truck Tyres LongHaul,Truck, India Tyres Co ,Medium,June,North,83,299.7,1666.8
+1321,Truck Tyres LongHaul,Truck,india tyres co ,Medium,June,East,81,397.84,2153.19
+1322,Truck Tyres LongHaul,Truck,JULIET AUTOMOTIVE PVT LTD ,Small,June,East,88,303.57,1760.84
+1323,Cycle Tyres Speedster,Cycle,ALPHA MOTORS PVT LTD,Big,June,South,39,58.76,145.51
+1324,Cycle Tyres Speedster,Cycle,alpha motors pvt ltd ,Big,June,East,10,70.92,39.9
+1325,Cycle Tyres Speedster,Cycle,alpha motors pvt ltd,Big,June,South,82,80.73,401.39
+1326,Cycle Tyres Speedster,Cycle, alpha motors pvt ltd ,Big,June,South,83,86.97,464.72
+1327,Cycle Tyres Speedster,Cycle, bravo auto corp ,Medium,June,East,16,55.38,60.62
+1328,Cycle Tyres Speedster,Cycle, BRAVO AUTO CORP ,Medium,June,Central,58,58.06,230.97
+1329,Cycle Tyres Speedster,Cycle, Bravo Auto Corp,Medium,June,West,86,81.52,454.25
+1330,Cycle Tyres Speedster,Cycle,bravo auto corp,Medium,June,North,92,75.88,469.81
+1331,Cycle Tyres Speedster,Cycle, CHARLIE TRANSPORT LTD,Big,June,Central,47,56.11,173.33
+1332,Cycle Tyres Speedster,Cycle,DELTA VEHICLES PVT LTD ,Big,June,West,50,76.05,211.46
+1333,Cycle Tyres Speedster,Cycle, Delta Vehicles Pvt Ltd,Big,June,East,46,63.98,155.92
+1334,Cycle Tyres Speedster,Cycle, DELTA VEHICLES PVT LTD ,Big,June,West,68,67.94,235.87
+1335,Cycle Tyres Speedster,Cycle, delta vehicles pvt ltd,Big,June,North,69,54.35,249.54
+1336,Cycle Tyres Speedster,Cycle,echo motors ltd ,Medium,June,West,57,65.27,195.16
+1337,Cycle Tyres Speedster,Cycle,foxtrot auto ltd,Small,June,Central,73,85.46,397.77
+1338,Cycle Tyres Speedster,Cycle, golf motor company,Small,June,West,76,50.44,255.81
+1339,Cycle Tyres Speedster,Cycle,golf motor company,Small,June,North,21,50.5,72.63
+1340,Cycle Tyres Speedster,Cycle,HOTEL WHEELS INC,Medium,June,Central,43,59.65,129.88
+1341,Cycle Tyres Speedster,Cycle, INDIA TYRES CO ,Medium,June,East,15,71.19,55.06
+1342,Cycle Tyres Speedster,Cycle, india tyres co,Medium,June,Central,74,93.92,474.09
+1343,Cycle Tyres Speedster,Cycle,Juliet Automotive Pvt Ltd ,Small,June,North,96,90.96,598.12
+1344,Cycle Tyres Speedster,Cycle, juliet automotive pvt ltd,Small,June,South,33,80.4,177.64
+1345,Cycle Tyres Speedster,Cycle, Juliet Automotive Pvt Ltd,Small,June,North,90,83.58,457.97
+1346,Cycle Tyres Speedster,Cycle, juliet automotive pvt ltd,Small,June,West,51,72.92,255.81
+1347,Cycle Tyres Rider,Cycle,Alpha Motors Pvt Ltd,Big,June,South,90,58.02,348.34
+1348,Cycle Tyres Rider,Cycle,ALPHA MOTORS PVT LTD ,Big,June,East,62,53.53,223.07
+1349,Cycle Tyres Rider,Cycle,alpha motors pvt ltd,Big,June,South,59,93.99,368.5
+1350,Cycle Tyres Rider,Cycle,alpha motors pvt ltd ,Big,June,South,92,77.25,437.16
+1351,Cycle Tyres Rider,Cycle, BRAVO AUTO CORP,Medium,June,Central,77,71.99,290.21
+1352,Cycle Tyres Rider,Cycle, BRAVO AUTO CORP,Medium,June,North,100,97.98,669.09
+1353,Cycle Tyres Rider,Cycle,BRAVO AUTO CORP ,Medium,June,West,15,71.19,72.03
+1354,Cycle Tyres Rider,Cycle,Bravo Auto Corp ,Medium,June,Central,26,60.35,86.57
+1355,Cycle Tyres Rider,Cycle,Bravo Auto Corp,Medium,June,East,73,75.47,375.81
+1356,Cycle Tyres Rider,Cycle,Charlie Transport Ltd ,Big,June,Central,46,96.57,293.2
+1357,Cycle Tyres Rider,Cycle, Charlie Transport Ltd,Big,June,East,92,61.85,366.06
+1358,Cycle Tyres Rider,Cycle,CHARLIE TRANSPORT LTD,Big,June,Central,42,99.16,254.81
+1359,Cycle Tyres Rider,Cycle,delta vehicles pvt ltd ,Big,June,West,19,91.21,89.87
+1360,Cycle Tyres Rider,Cycle,Echo Motors Ltd ,Medium,June,North,19,82.29,98.23
+1361,Cycle Tyres Rider,Cycle, echo motors ltd ,Medium,June,South,99,61.19,351.65
+1362,Cycle Tyres Rider,Cycle, ECHO MOTORS LTD ,Medium,June,West,31,97.81,202.27
+1363,Cycle Tyres Rider,Cycle,echo motors ltd ,Medium,June,South,45,67.25,165.38
+1364,Cycle Tyres Rider,Cycle,FOXTROT AUTO LTD ,Small,June,West,20,87.83,107.18
+1365,Cycle Tyres Rider,Cycle,FOXTROT AUTO LTD,Small,June,East,99,82.32,493.74
+1366,Cycle Tyres Rider,Cycle,Foxtrot Auto Ltd,Small,June,Central,81,71.3,350.03
+1367,Cycle Tyres Rider,Cycle,GOLF MOTOR COMPANY,Small,June,Central,90,62.3,282.02
+1368,Cycle Tyres Rider,Cycle,golf motor company ,Small,June,West,98,71.45,417.6
+1369,Cycle Tyres Rider,Cycle, Golf Motor Company ,Small,June,Central,54,63.45,180.87
+1370,Cycle Tyres Rider,Cycle, HOTEL WHEELS INC ,Medium,June,Central,72,92.05,449.68
+1371,Cycle Tyres Rider,Cycle, Hotel Wheels Inc ,Medium,June,Central,22,58.79,70.76
+1372,Cycle Tyres Rider,Cycle,Hotel Wheels Inc ,Medium,June,Central,61,97.11,318.28
+1373,Cycle Tyres Rider,Cycle, INDIA TYRES CO ,Medium,June,West,64,90.59,388.16
+1374,Cycle Tyres Rider,Cycle, India Tyres Co ,Medium,June,Central,66,72.71,320.7
+1375,Cycle Tyres Rider,Cycle, India Tyres Co,Medium,June,North,64,55.44,242.51
+1376,Cycle Tyres Rider,Cycle,india tyres co,Medium,June,North,97,59.77,382.59
+1377,Cycle Tyres Rider,Cycle,Juliet Automotive Pvt Ltd,Small,June,West,90,74.14,413.55
+1378,Cycle Tyres Rider,Cycle,JULIET AUTOMOTIVE PVT LTD,Small,June,North,45,84.7,213.88
+1379,Two-wheeler Tyres Swift,Two-wheeler, alpha motors pvt ltd,Big,June,North,63,89.78,297.91
+1380,Two-wheeler Tyres Swift,Two-wheeler, alpha motors pvt ltd,Big,June,East,33,125.42,228.35
+1381,Two-wheeler Tyres Swift,Two-wheeler,Bravo Auto Corp ,Medium,June,Central,73,85.37,314.01
+1382,Two-wheeler Tyres Swift,Two-wheeler, bravo auto corp,Medium,June,East,38,91.46,204.32
+1383,Two-wheeler Tyres Swift,Two-wheeler,Bravo Auto Corp ,Medium,June,North,24,86.78,121.46
+1384,Two-wheeler Tyres Swift,Two-wheeler, Charlie Transport Ltd,Big,June,West,81,126.88,517.17
+1385,Two-wheeler Tyres Swift,Two-wheeler, Charlie Transport Ltd ,Big,June,East,24,138.52,198.75
+1386,Two-wheeler Tyres Swift,Two-wheeler,Charlie Transport Ltd,Big,June,East,97,105.01,609.73
+1387,Two-wheeler Tyres Swift,Two-wheeler,delta vehicles pvt ltd,Big,June,Central,94,143.26,714.04
+1388,Two-wheeler Tyres Swift,Two-wheeler,delta vehicles pvt ltd,Big,June,Central,12,145.35,94.31
+1389,Two-wheeler Tyres Swift,Two-wheeler, delta vehicles pvt ltd,Big,June,East,59,81.1,263.66
+1390,Two-wheeler Tyres Swift,Two-wheeler,echo motors ltd,Medium,June,South,92,83.49,397.88
+1391,Two-wheeler Tyres Swift,Two-wheeler, ECHO MOTORS LTD,Medium,June,Central,66,129.48,440.69
+1392,Two-wheeler Tyres Swift,Two-wheeler, echo motors ltd ,Medium,June,South,14,117.44,90.16
+1393,Two-wheeler Tyres Swift,Two-wheeler,ECHO MOTORS LTD ,Medium,June,South,37,124.94,272.16
+1394,Two-wheeler Tyres Swift,Two-wheeler, echo motors ltd,Medium,June,South,50,124.1,361.47
+1395,Two-wheeler Tyres Swift,Two-wheeler,Foxtrot Auto Ltd ,Small,June,North,69,140.33,520.54
+1396,Two-wheeler Tyres Swift,Two-wheeler, Foxtrot Auto Ltd ,Small,June,East,45,114.91,277.92
+1397,Two-wheeler Tyres Swift,Two-wheeler, foxtrot auto ltd ,Small,June,North,46,100.48,245.44
+1398,Two-wheeler Tyres Swift,Two-wheeler, golf motor company,Small,June,West,90,102.0,493.5
+1399,Two-wheeler Tyres Swift,Two-wheeler,hotel wheels inc,Medium,June,North,94,98.52,538.12
+1400,Two-wheeler Tyres Swift,Two-wheeler,HOTEL WHEELS INC ,Medium,June,Central,33,120.67,237.03
+1401,Two-wheeler Tyres Swift,Two-wheeler, INDIA TYRES CO,Medium,June,South,14,125.68,102.67
+1402,Two-wheeler Tyres Swift,Two-wheeler, INDIA TYRES CO ,Medium,June,Central,12,122.38,77.22
+1403,Two-wheeler Tyres Swift,Two-wheeler,India Tyres Co,Medium,June,North,17,144.93,134.01
+1404,Two-wheeler Tyres Swift,Two-wheeler, INDIA TYRES CO ,Medium,June,Central,82,94.36,410.12
+1405,Two-wheeler Tyres Swift,Two-wheeler, juliet automotive pvt ltd ,Small,June,East,51,131.73,367.92
+1406,Two-wheeler Tyres Swift,Two-wheeler,Juliet Automotive Pvt Ltd,Small,June,North,23,110.22,135.45
+1407,Two-wheeler Tyres Swift,Two-wheeler,juliet automotive pvt ltd,Small,June,Central,46,109.38,298.42
+1408,Two-wheeler Tyres Swift,Two-wheeler,JULIET AUTOMOTIVE PVT LTD ,Small,June,East,75,127.41,542.36
+1409,Two-wheeler Tyres Swift,Two-wheeler,JULIET AUTOMOTIVE PVT LTD,Small,June,South,14,83.5,65.19
+1410,Two-wheeler Tyres Cruiser,Two-wheeler,ALPHA MOTORS PVT LTD ,Big,June,East,72,129.81,477.22
+1411,Two-wheeler Tyres Cruiser,Two-wheeler, alpha motors pvt ltd ,Big,June,Central,69,124.01,437.55
+1412,Two-wheeler Tyres Cruiser,Two-wheeler,Alpha Motors Pvt Ltd,Big,June,South,36,147.49,273.22
+1413,Two-wheeler Tyres Cruiser,Two-wheeler, alpha motors pvt ltd ,Big,June,East,84,90.73,429.31
+1414,Two-wheeler Tyres Cruiser,Two-wheeler, bravo auto corp ,Medium,June,West,84,80.07,369.02
+1415,Two-wheeler Tyres Cruiser,Two-wheeler, Charlie Transport Ltd,Big,June,South,95,116.4,592.46
+1416,Two-wheeler Tyres Cruiser,Two-wheeler, CHARLIE TRANSPORT LTD ,Big,June,North,65,135.68,470.95
+1417,Two-wheeler Tyres Cruiser,Two-wheeler, charlie transport ltd,Big,June,North,52,92.18,281.38
+1418,Two-wheeler Tyres Cruiser,Two-wheeler, Delta Vehicles Pvt Ltd ,Big,June,North,10,147.86,77.42
+1419,Two-wheeler Tyres Cruiser,Two-wheeler, delta vehicles pvt ltd,Big,June,South,61,81.94,274.56
+1420,Two-wheeler Tyres Cruiser,Two-wheeler, Delta Vehicles Pvt Ltd ,Big,June,South,60,127.54,447.57
+1421,Two-wheeler Tyres Cruiser,Two-wheeler, Delta Vehicles Pvt Ltd ,Big,June,South,26,89.88,130.97
+1422,Two-wheeler Tyres Cruiser,Two-wheeler, Echo Motors Ltd ,Medium,June,East,26,144.77,211.06
+1423,Two-wheeler Tyres Cruiser,Two-wheeler, echo motors ltd ,Medium,June,Central,23,139.85,180.82
+1424,Two-wheeler Tyres Cruiser,Two-wheeler,FOXTROT AUTO LTD ,Small,June,West,69,101.74,407.87
+1425,Two-wheeler Tyres Cruiser,Two-wheeler,foxtrot auto ltd ,Small,June,West,81,136.24,567.83
+1426,Two-wheeler Tyres Cruiser,Two-wheeler, foxtrot auto ltd,Small,June,West,68,140.07,504.94
+1427,Two-wheeler Tyres Cruiser,Two-wheeler, FOXTROT AUTO LTD,Small,June,West,42,130.05,309.62
+1428,Two-wheeler Tyres Cruiser,Two-wheeler,golf motor company ,Small,June,West,24,107.95,147.16
+1429,Two-wheeler Tyres Cruiser,Two-wheeler,GOLF MOTOR COMPANY ,Small,June,North,50,106.49,267.9
+1430,Two-wheeler Tyres Cruiser,Two-wheeler,HOTEL WHEELS INC ,Medium,June,North,94,143.33,759.95
+1431,Two-wheeler Tyres Cruiser,Two-wheeler, Hotel Wheels Inc,Medium,June,North,70,138.64,548.87
+1432,Two-wheeler Tyres Cruiser,Two-wheeler, INDIA TYRES CO ,Medium,June,Central,50,96.53,266.44
+1433,Two-wheeler Tyres Cruiser,Two-wheeler, india tyres co,Medium,June,North,41,145.93,334.47
+1434,Two-wheeler Tyres Cruiser,Two-wheeler,juliet automotive pvt ltd ,Small,June,North,18,82.01,80.93
+1435,Two-wheeler Tyres Cruiser,Two-wheeler, JULIET AUTOMOTIVE PVT LTD,Small,June,Central,75,83.58,363.91
+1436,Two-wheeler Tyres Cruiser,Two-wheeler,JULIET AUTOMOTIVE PVT LTD,Small,June,East,39,121.33,255.87
