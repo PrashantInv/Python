@@ -1,4 +1,4 @@
-OrderID,ProductName,ProductCategory,CustomerName,CustomerCategory,Month,Zone,Units Sold,Per Unit Price,Sales Commission Paid
+OrderID,ProductName,ProductCategory,CustomerName,CustomerCategory,Month,Zone,UnitsSold,PerUnitPrice,SalesCommissionPaid
 1,Car Tyres Rapid,Car,alpha motors pvt ltd ,Big,January,East,77,131.22,532.59
 2,Car Tyres Rapid,Car, alpha motors pvt ltd,Big,January,South,16,131.37,121.74
 3,Car Tyres Rapid,Car, alpha motors pvt ltd,Big,January,West,35,197.6,384.94
